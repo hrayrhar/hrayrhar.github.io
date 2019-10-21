@@ -107,10 +107,12 @@
   content: "\e827";
 }
 .ai-google-scholar:before {
-  content: "\e828";
+  /*content: "\e828";*/
+  content: "\f1c1";
 }
 .ai-google-scholar-square:before {
-  content: "\e829";
+  /*content: "\e829";*/
+  content: "\f1c1";
 }
 .ai-ieee:before {
   content: "\e830";
