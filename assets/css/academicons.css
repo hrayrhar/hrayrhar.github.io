@@ -107,12 +107,10 @@
   content: "\e827";
 }
 .ai-google-scholar:before {
-  /*content: "\e828";*/
-  content: "\f1c1";
+  content: "\e828";
 }
 .ai-google-scholar-square:before {
-  /*content: "\e829";*/
-  content: "\f1c1";
+  content: "\e829";
 }
 .ai-ieee:before {
   content: "\e830";
@@ -209,6 +207,12 @@
 }
 .ai-zotero-square:before {
   content: "\e861";
+}
+.ai-mypdf:before {
+  content: "\e862";
+}
+.ai-mypdf-square:before {
+  content: "\e862";
 }
 /*  Duplication of the FontAwesome style classes using 'ai' in place of 'fa'. */
 .ai-lg {
