@@ -88,7 +88,7 @@ author:
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=GaCGz8wAAAAJ&hl=en"
   email            : "hrayrhar@usc.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "AAAA"   # used for CVs
   uri              :
   bitbucket        :
   codepen          :
@@ -108,7 +108,7 @@ author:
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
-  tumblr           : "AAAAA"
+  tumblr           :
   twitter          : "harhrayr"
   vine             :
   weibo            :
