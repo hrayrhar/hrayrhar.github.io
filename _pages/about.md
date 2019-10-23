@@ -14,10 +14,9 @@ redirect_from:
   }
   .paper-image {
     float: left;
-    height: 200px
+    width: 200px
   }
   .paper-text {
-    /*float: left*/
   }
 </style>
 
@@ -49,14 +48,22 @@ of deep neural networks, and in estimation/approximation of information-theoreti
 </div>
 </div>
 
-*Hrayr Harutyunyan*, Daniel Moyer, Hrant Khachatrian, Greg Ver Steeg, Aram Galstyan  
-**Efficient Covariance Estimation from Temporal Data**  
-arXiv preprint \[[arXiv](https://arxiv.org/abs/1905.13276), [code](https://github.com/Harhro94/T-CorEx), [bibTeX](/files/bibtex/tcorex.txt)\]
+<div class="paper-image-text-pair">
+<img class="paper-image" src="/images/modular.png" alt="modular latent factor model">
+<div class="paper-text">
+  Sami Abu-El-Haija, Bryan Perozzi, Amol Kapoor, <i>Hrayr Harutyunyan</i>, Nazanin Alipourfard, Kristina Lerman, Greg Ver Steeg, Aram Galstyan
+  <br>
+  <b>Mixhop: Higher-order graph convolution architectures via sparsified neighborhood mixing</b>
+  <br>
+  ICML'19 [<a href="https://arxiv.org/abs/1905.00067">arXiv</a>,
+  <a href="https://github.com/samihaija/mixhop">code</a>,
+  <a href="/files/bibtex/mixhop.txt">bibTeX</a>]
+  <br><br>
+  Short summary here todo.
+</div>
+</div>
 
-
-Sami Abu-El-Haija, Bryan Perozzi, Amol Kapoor, *Hrayr Harutyunyan*, Nazanin Alipourfard, Kristina Lerman, Greg Ver Steeg, Aram Galstyan  
-**Mixhop: Higher-order graph convolution architectures via sparsified neighborhood mixing**  
-ICML'19 \[[arXiv](https://arxiv.org/abs/1905.00067), [code](https://github.com/samihaija/mixhop), [bibTeX](/files/bibtex/mixhop.txt)\]
+<br><br>
 
 
 *Hrayr Harutyunyan*, Hrant Khachatrian, David Kale, Greg Ver Steeg, Aram Galstyan  
