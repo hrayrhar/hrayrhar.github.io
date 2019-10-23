@@ -13,6 +13,9 @@ redirect_from:
     float: left;
     height: 200px
   }
+  .papercitation {
+    float: left
+  }
 </style>
 
 I am a second year PhD student at University of Southern California advised by Prof. [Aram Galstyan](https://www.isi.edu/people/galstyan/about) and Prof. [Greg Ver Steeg](https://www.isi.edu/people/gregv/about).
@@ -30,7 +33,7 @@ of deep neural networks, and in estimation/approximation of information-theoreti
 ## Publications
 <div>
 <img class="paperimage" src="/images/modular.png" alt="modular latent factor model" align="middle">
-<p>
+<div class="papercitation">
   <i>Hrayr Harutyunyan</i>, Kyle Reing, Greg Ver Steeg, Aram Galstyan
   <br>
   <b>Fast structure learning with modular regularization</b>
@@ -38,7 +41,9 @@ of deep neural networks, and in estimation/approximation of information-theoreti
   NeurIPS'19 [<a href="https://arxiv.org/abs/1706.03353">arXiv</a>,
   <a href="https://github.com/Harhro94/T-CorEx">code</a>,
   <a href="/files/bibtex/linearcorex.txt">bibTeX</a>]
-</p>
+  <br>
+  Short summary here todo.
+</div>
 </div>
 
 *Hrayr Harutyunyan*, Daniel Moyer, Hrant Khachatrian, Greg Ver Steeg, Aram Galstyan  
