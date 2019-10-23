@@ -1,0 +1,7 @@
+@inproceedings{mixhop,
+ author={Sami Abu-El-Haija AND Bryan Perozzi AND Amol Kapoor AND Hrayr Harutyunyan
+         AND Nazanin Alipourfard AND Kristina Lerman AND Greg Ver Steeg AND Aram Galstyan},
+ title={MixHop: Higher-Order Graph Convolution Architectures via Sparsified Neighborhood Mixing},
+ booktitle = {International Conference on Machine Learning (ICML)},
+ year = {2019},
+}

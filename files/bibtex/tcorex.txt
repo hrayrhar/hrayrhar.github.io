@@ -1,0 +1,6 @@
+@article{harutyunyan2019efficient,
+  title={Efficient Covariance Estimation from Temporal Data},
+  author={Harutyunyan, Hrayr and Moyer, Daniel and Khachatrian, Hrant and Steeg, Greg Ver and Galstyan, Aram},
+  journal={arXiv preprint arXiv:1905.13276},
+  year={2019}
+}

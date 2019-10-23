@@ -1,0 +1,12 @@
+@INPROCEEDINGS{8262735,
+author={G. V. {Steeg} and R. {Brekelmans} and H. {Harutyunyan} and A. {Galstyan}},
+booktitle={2017 55th Annual Allerton Conference on Communication, Control, and Computing (Allerton)},
+title={Disentangled representations via synergy minimization},
+year={2017},
+volume={},
+number={},
+pages={180-187},
+keywords={image representation;learning (artificial intelligence);minimisation;statistical analysis;minimally synergistic representations correctly disentangle characters;complex systems;synergy minimization;closed-form expressions;variation underlying data;informational synergy;Minimization;Mutual information;Correlation;Encoding;Decoding;Closed-form solutions;Random variables},
+doi={10.1109/ALLERTON.2017.8262735},
+ISSN={},
+month={Oct},}

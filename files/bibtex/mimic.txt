@@ -1,0 +1,10 @@
+@article{harutyunyan2019multitask,
+  title={Multitask learning and benchmarking with clinical time series data},
+  author={Harutyunyan, Hrayr and Khachatrian, Hrant and Kale, David C and Ver Steeg, Greg and Galstyan, Aram},
+  journal={Scientific data},
+  volume={6},
+  number={1},
+  pages={96},
+  year={2019},
+  publisher={Nature Publishing Group}
+}
