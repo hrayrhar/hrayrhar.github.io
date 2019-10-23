@@ -22,6 +22,11 @@ of deep neural networks, and in estimation/approximation of information-theoreti
 
 ## Publications
 
+| column 1 | column 2 |
+|:----------:|----------|
+| <img src="/images/modular.png" alt="Markdown Monster icon" style="float: left; margin-right: 10px;" /> | <p>value 1<br>value 2</p> |
+| value | <p>value 1<br>value 2</p> |
+  
 *Hrayr Harutyunyan*, Kyle Reing, Greg Ver Steeg, Aram Galstyan  
 **Fast structure learning with modular regularization**  
 NeurIPS'19 \[[arXiv](https://arxiv.org/abs/1706.03353), [code](https://github.com/Harhro94/T-CorEx), [bibTeX](/files/bibtex/linearcorex.txt)]
