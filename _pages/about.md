@@ -14,7 +14,7 @@ redirect_from:
   }
   .paper-image {
     float: left;
-    width: 200px
+    width: 300px
   }
   .paper-text {
   }
@@ -40,13 +40,32 @@ of deep neural networks, and in estimation/approximation of information-theoreti
   <br>
   <b>Fast structure learning with modular regularization</b>
   <br>
-  NeurIPS'19 [<a href="https://arxiv.org/abs/1706.03353">arXiv</a>,
+  NeurIPS'19 [<a href="https://arxiv.org/abs/1905.13276">arXiv</a>,
   <a href="https://github.com/Harhro94/T-CorEx">code</a>,
   <a href="/files/bibtex/linearcorex.txt">bibTeX</a>]
   <br><br>
   Short summary here todo.
 </div>
 </div>
+
+<br>
+
+<div class="paper-image-text-pair">
+<img class="paper-image" src="/images/modular.png" alt="modular latent factor model">
+<div class="paper-text">
+  <i>Hrayr Harutyunyan</i>, Daniel Moyer, Hrant Khachatrian, Greg Ver Steeg, Aram Galstyan  
+  <br>
+  <b>Efficient Covariance Estimation from Temporal Data</b>
+  <br>
+  arXiv preprint [<a href="https://arxiv.org/abs/1905.00067">arXiv</a>,
+  <a href="https://github.com/Harhro94/T-CorEx">code</a>,
+  <a href="/files/bibtex/tcorex.txt">bibTeX</a>]
+  <br><br>
+  Short summary here todo.
+</div>
+</div>
+
+<br>
 
 <div class="paper-image-text-pair">
 <img class="paper-image" src="/images/modular.png" alt="modular latent factor model">
@@ -63,7 +82,7 @@ of deep neural networks, and in estimation/approximation of information-theoreti
 </div>
 </div>
 
-<br><br>
+<br>
 
 
 *Hrayr Harutyunyan*, Hrant Khachatrian, David Kale, Greg Ver Steeg, Aram Galstyan  
