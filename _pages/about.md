@@ -8,6 +8,14 @@ redirect_from:
   - /about.html
 ---
 
+<style type="text/css">
+  .paperimage {
+    float: left;
+    width: 200px;
+    height: 200px
+  }
+</style>
+
 I am a second year PhD student at University of Southern California advised by Prof. [Aram Galstyan](https://www.isi.edu/people/galstyan/about) and Prof. [Greg Ver Steeg](https://www.isi.edu/people/gregv/about).
 My main research interested is representation learning with the goal of enriching the learned representation with useful properties.
 We often express those properties with information-theoretic quantities and propose methods for optimizing such objectives.
@@ -22,7 +30,7 @@ of deep neural networks, and in estimation/approximation of information-theoreti
 
 ## Publications
 <div>
-<img src="/images/modular.png" alt="modular latent factor model" align="middle" width="200px" height="200px">
+<img class="paperimage" src="/images/modular.png" alt="modular latent factor model" align="middle">
 <p>
   <i>Hrayr Harutyunyan</i>, Kyle Reing, Greg Ver Steeg, Aram Galstyan
   <br>
