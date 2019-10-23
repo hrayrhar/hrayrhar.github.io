@@ -18,6 +18,7 @@ redirect_from:
     padding-right: 10px;
   }
   .paper-text {
+    float:left
   }
 </style>
 
