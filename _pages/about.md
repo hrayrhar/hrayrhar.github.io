@@ -1,6 +1,7 @@
 ---
 permalink: /
 excerpt: "About me"
+title: About me
 author_profile: true
 redirect_from: 
   - /about/
@@ -21,7 +22,6 @@ redirect_from:
     /*float:left*/
   }
 </style>
-## About me
 
 I am a second year PhD student at University of Southern California advised by Prof. [Aram Galstyan](https://www.isi.edu/people/galstyan/about) and Prof. [Greg Ver Steeg](https://www.isi.edu/people/gregv/about).
 My main research interested is representation learning with the goal of enriching the learned representation with useful properties.
