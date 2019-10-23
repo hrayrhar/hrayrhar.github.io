@@ -17,7 +17,7 @@ redirect_from:
     height: 200px
   }
   .paper-text {
-    float: left
+    /*float: left*/
   }
 </style>
 
@@ -35,7 +35,7 @@ of deep neural networks, and in estimation/approximation of information-theoreti
 
 ## Publications
 <div class="paper-image-text-pair">
-<img class="paper-image" src="/images/modular.png" alt="modular latent factor model" align="middle">
+<img class="paper-image" src="/images/modular.png" alt="modular latent factor model">
 <div class="paper-text">
   <i>Hrayr Harutyunyan</i>, Kyle Reing, Greg Ver Steeg, Aram Galstyan
   <br>
