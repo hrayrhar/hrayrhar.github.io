@@ -18,7 +18,7 @@ redirect_from:
     padding-right: 10px;
   }
   .paper-text {
-    display: inline-block;
+    /*display: inline-block;*/
     /*float:left*/
   }
 </style>
