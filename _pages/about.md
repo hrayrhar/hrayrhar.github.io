@@ -21,16 +21,15 @@ of deep neural networks, and in estimation/approximation of information-theoreti
 
 
 ## Publications
-
+<div>
 <p><img src="/images/modular.png" alt="modular latent factor model" align="left" width="200px" height="200px">
 <i>Hrayr Harutyunyan</i>, Kyle Reing, Greg Ver Steeg, Aram Galstyan<br>
 <b>Fast structure learning with modular regularization</b><br>
+NeurIPS'19 [<a href="https://arxiv.org/abs/1706.03353">arXiv</a>,
+<a href="https://github.com/Harhro94/T-CorEx">code</a>,
+<a href="/files/bibtex/linearcorex.txt">bibTeX</a>]
 </p>
-
-  
-*Hrayr Harutyunyan*, Kyle Reing, Greg Ver Steeg, Aram Galstyan  
-**Fast structure learning with modular regularization**  
-NeurIPS'19 \[[arXiv](https://arxiv.org/abs/1706.03353), [code](https://github.com/Harhro94/T-CorEx), [bibTeX](/files/bibtex/linearcorex.txt)]
+</div>
 
 
 *Hrayr Harutyunyan*, Daniel Moyer, Hrant Khachatrian, Greg Ver Steeg, Aram Galstyan  
