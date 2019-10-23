@@ -11,7 +11,6 @@ redirect_from:
 <style type="text/css">
   .paperimage {
     float: left;
-    width: 200px;
     height: 200px
   }
 </style>
