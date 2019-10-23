@@ -9,11 +9,14 @@ redirect_from:
 ---
 
 <style type="text/css">
-  .paperimage {
+  .paper-image-text-pair {
+    overflow: auto;
+  }
+  .paper-image {
     float: left;
     height: 200px
   }
-  .papercitation {
+  .paper-text {
     float: left
   }
 </style>
@@ -31,9 +34,9 @@ of deep neural networks, and in estimation/approximation of information-theoreti
 
 
 ## Publications
-<div>
-<img class="paperimage" src="/images/modular.png" alt="modular latent factor model" align="middle">
-<div class="papercitation">
+<div class="paper-image-text-pair">
+<img class="paper-image" src="/images/modular.png" alt="modular latent factor model" align="middle">
+<div class="paper-text">
   <i>Hrayr Harutyunyan</i>, Kyle Reing, Greg Ver Steeg, Aram Galstyan
   <br>
   <b>Fast structure learning with modular regularization</b>
@@ -41,7 +44,7 @@ of deep neural networks, and in estimation/approximation of information-theoreti
   NeurIPS'19 [<a href="https://arxiv.org/abs/1706.03353">arXiv</a>,
   <a href="https://github.com/Harhro94/T-CorEx">code</a>,
   <a href="/files/bibtex/linearcorex.txt">bibTeX</a>]
-  <br>
+  <br><br>
   Short summary here todo.
 </div>
 </div>
