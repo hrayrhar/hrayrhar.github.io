@@ -36,7 +36,7 @@ of deep neural networks, and in estimation/approximation of information-theoreti
 <div class="paper-image-text-pair">
 <img class="paper-image" src="/images/modular.png" alt="modular latent factor model">
 <div class="paper-text">
-  <i>Hrayr Harutyunyan</i>, Kyle Reing, Greg Ver Steeg, Aram Galstyan
+  Greg Ver Steeg, <i>Hrayr Harutyunyan</i>, Daniel Moyer, Aram Galstyan
   <br>
   <b>Fast structure learning with modular regularization</b>
   <br>
@@ -57,7 +57,7 @@ of deep neural networks, and in estimation/approximation of information-theoreti
   <br>
   <b>Efficient Covariance Estimation from Temporal Data</b>
   <br>
-  arXiv preprint [<a href="https://arxiv.org/abs/1905.00067">arXiv</a>,
+  arXiv preprint [<a href="https://arxiv.org/abs/1905.13276">arXiv</a>,
   <a href="https://github.com/Harhro94/T-CorEx">code</a>,
   <a href="/files/bibtex/tcorex.txt">bibTeX</a>]
   <br><br>
@@ -68,7 +68,7 @@ of deep neural networks, and in estimation/approximation of information-theoreti
 <br>
 
 <div class="paper-image-text-pair">
-<img class="paper-image" src="/images/modular.png" alt="modular latent factor model">
+<img class="paper-image" src="/images/mixhop.png" alt="modular latent factor model">
 <div class="paper-text">
   Sami Abu-El-Haija, Bryan Perozzi, Amol Kapoor, <i>Hrayr Harutyunyan</i>, Nazanin Alipourfard, Kristina Lerman, Greg Ver Steeg, Aram Galstyan
   <br>
@@ -109,7 +109,6 @@ of deep neural networks, and in estimation/approximation of information-theoreti
   <b>Disentangled representations via synergy minimization</b>
   <br>
   Allerton'17 [<a href="https://arxiv.org/abs/1710.03839">arXiv</a>,
-  <a href="https://github.com/YerevaNN/mimic3-benchmarks">code</a>,
   <a href="/files/bibtex/synergy.txt">bibTeX</a>]
   <br><br>
   Short summary here todo.
