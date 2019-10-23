@@ -14,7 +14,8 @@ redirect_from:
   }
   .paper-image {
     float: left;
-    width: 300px
+    width: 300px;
+    padding-right: 10px;
   }
   .paper-text {
   }
@@ -51,7 +52,7 @@ of deep neural networks, and in estimation/approximation of information-theoreti
 <br>
 
 <div class="paper-image-text-pair">
-<img class="paper-image" src="/images/modular.png" alt="modular latent factor model">
+<img class="paper-image" src="/images/modular.png" alt="temporal CorEx">
 <div class="paper-text">
   <i>Hrayr Harutyunyan</i>, Daniel Moyer, Hrant Khachatrian, Greg Ver Steeg, Aram Galstyan  
   <br>
@@ -68,7 +69,7 @@ of deep neural networks, and in estimation/approximation of information-theoreti
 <br>
 
 <div class="paper-image-text-pair">
-<img class="paper-image" src="/images/mixhop.png" alt="modular latent factor model">
+<img class="paper-image" src="/images/mixhop.png" alt="mixhop architecture">
 <div class="paper-text">
   Sami Abu-El-Haija, Bryan Perozzi, Amol Kapoor, <i>Hrayr Harutyunyan</i>, Nazanin Alipourfard, Kristina Lerman, Greg Ver Steeg, Aram Galstyan
   <br>
@@ -85,7 +86,7 @@ of deep neural networks, and in estimation/approximation of information-theoreti
 <br>
 
 <div class="paper-image-text-pair">
-<img class="paper-image" src="/images/modular.png" alt="modular latent factor model">
+<img class="paper-image" src="/images/mimic.png" alt="mimic benchmarking">
 <div class="paper-text">
   <i>Hrayr Harutyunyan</i>, Hrant Khachatrian, David Kale, Greg Ver Steeg, Aram Galstyan 
   <br>
@@ -102,7 +103,7 @@ of deep neural networks, and in estimation/approximation of information-theoreti
 <br>
 
 <div class="paper-image-text-pair">
-<img class="paper-image" src="/images/modular.png" alt="modular latent factor model">
+<img class="paper-image" src="/images/synergy.png" alt="disentangling via synergy minimization">
 <div class="paper-text">
   Greg Ver Steeg, Rob Brekelmans, <i>Hrayr Harutyunyan</i>, Aram Galstyan 
   <br>
