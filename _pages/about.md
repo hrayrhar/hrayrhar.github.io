@@ -84,13 +84,36 @@ of deep neural networks, and in estimation/approximation of information-theoreti
 
 <br>
 
+<div class="paper-image-text-pair">
+<img class="paper-image" src="/images/modular.png" alt="modular latent factor model">
+<div class="paper-text">
+  <i>Hrayr Harutyunyan</i>, Hrant Khachatrian, David Kale, Greg Ver Steeg, Aram Galstyan 
+  <br>
+  <b>Multitask learning and benchmarking with clinical time series data</b>
+  <br>
+  Nature, Scientific data 6 (1), 96 [<a href="https://arxiv.org/abs/1703.07771">arXiv</a>,
+  <a href="https://github.com/YerevaNN/mimic3-benchmarks">code</a>,
+  <a href="/files/bibtex/mimic.txt">bibTeX</a>]
+  <br><br>
+  Short summary here todo.
+</div>
+</div>
 
-*Hrayr Harutyunyan*, Hrant Khachatrian, David Kale, Greg Ver Steeg, Aram Galstyan  
-**Multitask learning and benchmarking with clinical time series data**   
-Nature, Scientific data 6 (1), 96 \[[arXiv](https://arxiv.org/abs/1703.07771), [code](https://github.com/YerevaNN/mimic3-benchmarks), [bibTeX](/files/bibtex/mimic.txt)\]
+<br>
 
+<div class="paper-image-text-pair">
+<img class="paper-image" src="/images/modular.png" alt="modular latent factor model">
+<div class="paper-text">
+  Greg Ver Steeg, Rob Brekelmans, <i>Hrayr Harutyunyan</i>, Aram Galstyan 
+  <br>
+  <b>Disentangled representations via synergy minimization</b>
+  <br>
+  Allerton'17 [<a href="https://arxiv.org/abs/1710.03839">arXiv</a>,
+  <a href="https://github.com/YerevaNN/mimic3-benchmarks">code</a>,
+  <a href="/files/bibtex/synergy.txt">bibTeX</a>]
+  <br><br>
+  Short summary here todo.
+</div>
+</div>
 
-Greg Ver Steeg, Rob Brekelmans, *Hrayr Harutyunyan*, Aram Galstyan  
-**Disentangled representations via synergy minimization**  
-Allerton'17, \[[arXiv](https://arxiv.org/abs/1710.03839), [bibTeX](/files/bibtex/synergy.txt)\]
-
+<br>
