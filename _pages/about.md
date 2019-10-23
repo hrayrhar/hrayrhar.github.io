@@ -52,7 +52,7 @@ of deep neural networks, and in estimation/approximation of information-theoreti
 <br>
 
 <div class="paper-image-text-pair">
-<img class="paper-image" src="/images/modular.png" alt="temporal CorEx">
+<img class="paper-image" src="/images/tcorex.png" alt="temporal CorEx">
 <div class="paper-text">
   <i>Hrayr Harutyunyan</i>, Daniel Moyer, Hrant Khachatrian, Greg Ver Steeg, Aram Galstyan  
   <br>
