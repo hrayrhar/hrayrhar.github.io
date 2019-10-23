@@ -16,7 +16,7 @@ More broadly, I am interested in core research in machine learning, understandin
 of deep neural networks, and in estimation/approximation of information-theoretic quantities.
 
 ## News
-- Our [paper](https://arxiv.org/abs/1706.03353) "Fast structure learning with modular regularization" got accepted to NeurIPS'19 as a spotlight presentation.
+- [Sept. 3, 2019] Our [paper](https://arxiv.org/abs/1706.03353) "Fast structure learning with modular regularization" got accepted to NeurIPS'19 as a spotlight presentation.
 
 
 ## Publications
