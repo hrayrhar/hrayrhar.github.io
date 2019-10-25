@@ -22,7 +22,7 @@ redirect_from:
     /*float:left*/
   }
   .paper-short-summary {
-    font-size: 0.75em; // corresponds to $type-size-6
+    font-size: 0.6875em; // corresponds to $type-size-7
   }
 </style>
 
