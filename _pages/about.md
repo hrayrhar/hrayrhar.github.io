@@ -18,11 +18,12 @@ redirect_from:
     padding-right: 10px;
   }
   .paper-text {
+    min-width: 20em;
     /*display: inline-block;*/
     /*float:left*/
   }
   .paper-short-summary {
-    font-size: 0.9em;
+    font-size: 0.85em;
   }
 </style>
 
