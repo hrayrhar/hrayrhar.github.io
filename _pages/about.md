@@ -134,7 +134,9 @@ of deep neural networks, and in estimation/approximation of information-theoreti
 </div>
 </div>
 
+<br>
 <hr>
+<br>
 
 <div class="paper-image-text-pair">
 <img class="paper-image" src="/images/synergy.png" alt="disentangling via synergy minimization">
