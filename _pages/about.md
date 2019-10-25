@@ -8,26 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<style type="text/css">
-  .paper-image-text-pair {
-    overflow: auto;
-  }
-  .paper-image {
-    float: left;
-    width: 250px;
-    padding-right: 10px;
-  }
-  .paper-text {
-  }
-  @media (max-width: 500px) {
-     .paper-text { 
-        float: left;
-     }
-  }
-  .paper-short-summary {
-    font-size: 0.85em;
-  }
-</style>
+<head>
+  <link rel="stylesheet" href="/assets/css/custom.css">
+</head>
 
 I am a second year PhD student at University of Southern California advised by Prof. [Aram Galstyan](https://www.isi.edu/people/galstyan/about) and Prof. [Greg Ver Steeg](https://www.isi.edu/people/gregv/about).
 My main research interest is representation learning with the goal of enriching the learned representation with useful properties.

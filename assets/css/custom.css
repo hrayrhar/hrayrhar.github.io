@@ -1,0 +1,18 @@
+.paper-image-text-pair {
+  overflow: auto;
+}
+.paper-image {
+    float: left;
+    width: 250px;
+    padding-right: 10px;
+}
+.paper-text {
+}
+@media (max-width: 500px) {
+    .paper-text {
+        float: left;
+    }
+}
+.paper-short-summary {
+    font-size: 0.85em;
+}
