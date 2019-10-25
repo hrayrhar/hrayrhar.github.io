@@ -22,7 +22,7 @@ redirect_from:
     /*float:left*/
   }
   .paper-short-summary {
-    font-size: 0.8em;
+    font-size: 0.9em;
   }
 </style>
 
