@@ -147,7 +147,15 @@ of deep neural networks, and in estimation/approximation of information-theoreti
   <a href="/files/bibtex/synergy.txt">bibTeX</a>]
   <br><br>
   <div class="paper-short-summary">
-  Short summary here todo.
+  If the factors comprising a representation allow us to make accurate predictions about our system, 
+  but obscuring any subset of the factors destroys our ability to make predictions, we say that the 
+  representation exhibits informational synergy. We argue that synergy is an undesirable feature in 
+  learned representations and that explicitly minimizing synergy can help disentangle the true factors 
+  of variation underlying data. We explore different ways of quantifying synergy, deriving new 
+  closed-form expressions in some cases, and then show how to modify learning to produce representations 
+  that are minimally synergistic. We introduce a benchmark task to disentangle separate characters from images 
+  of words. We demonstrate that Minimally Synergistic (MinSyn) representations correctly disentangle characters while 
+  methods relying on statistical independence fail.
   </div>
 </div>
 </div>
