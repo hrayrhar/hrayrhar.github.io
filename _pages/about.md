@@ -73,6 +73,7 @@ of deep neural networks, and in estimation/approximation of information-theoreti
   <a href="https://github.com/Harhro94/T-CorEx">code</a>,
   <a href="/files/bibtex/tcorex.txt">bibTeX</a>]
   <br><br>
+  <div class="paper-short-summary">
   In this work we extend linear CorEx to work with temporal data.
   The main method -- T-CorEx --  takes multivariate time series, divided into time periods and 
   models the data of each time period with an instance of linear CorEx, such that the models
@@ -81,6 +82,7 @@ of deep neural networks, and in estimation/approximation of information-theoreti
   series, change point detection, and extracting useful information.
   All these analyses can be done in less than an hour even when the data is truly high-dimensional 
   (like an fMRI instance with 10^5 variables and 20 time periods).
+  </div>
 </div>
 </div>
 
@@ -97,7 +99,9 @@ of deep neural networks, and in estimation/approximation of information-theoreti
   <a href="https://github.com/samihaija/mixhop">code</a>,
   <a href="/files/bibtex/mixhop.txt">bibTeX</a>]
   <br><br>
+  <div class="paper-short-summary">
   Short summary here todo.
+  </div>
 </div>
 </div>
 
@@ -114,7 +118,9 @@ of deep neural networks, and in estimation/approximation of information-theoreti
   <a href="https://github.com/YerevaNN/mimic3-benchmarks">code</a>,
   <a href="/files/bibtex/mimic.txt">bibTeX</a>]
   <br><br>
+  <div class="paper-short-summary">
   Short summary here todo.
+  </div>
 </div>
 </div>
 
@@ -130,6 +136,8 @@ of deep neural networks, and in estimation/approximation of information-theoreti
   Allerton'17 [<a href="https://arxiv.org/abs/1710.03839">arXiv</a>,
   <a href="/files/bibtex/synergy.txt">bibTeX</a>]
   <br><br>
+  <div class="paper-short-summary">
   Short summary here todo.
+  </div>
 </div>
 </div>
