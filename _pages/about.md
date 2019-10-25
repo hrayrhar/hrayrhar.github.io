@@ -63,7 +63,7 @@ of deep neural networks, and in estimation/approximation of information-theoreti
 </div>
 </div>
 
-<hr>
+<hr style="margin: 1.5em">
 
 <div class="paper-image-text-pair">
 <img class="paper-image" src="/images/tcorex.png" alt="temporal CorEx">
@@ -89,7 +89,7 @@ of deep neural networks, and in estimation/approximation of information-theoreti
 </div>
 </div>
 
-<hr>
+<hr style="margin: 1.5em">
 
 <div class="paper-image-text-pair">
 <img class="paper-image" src="/images/mixhop.png" alt="mixhop architecture">
@@ -112,7 +112,7 @@ of deep neural networks, and in estimation/approximation of information-theoreti
 </div>
 </div>
 
-<hr>
+<hr style="margin: 1.5em">
 
 <div class="paper-image-text-pair">
 <img class="paper-image" src="/images/mimic.png" alt="mimic benchmarking">
@@ -134,9 +134,7 @@ of deep neural networks, and in estimation/approximation of information-theoreti
 </div>
 </div>
 
-<br>
-<hr>
-<br>
+<hr style="margin: 1.5em">
 
 <div class="paper-image-text-pair">
 <img class="paper-image" src="/images/synergy.png" alt="disentangling via synergy minimization">
