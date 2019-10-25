@@ -18,9 +18,11 @@ redirect_from:
     padding-right: 10px;
   }
   .paper-text {
-    min-width: 200px;/*fix later*/
-    /*display: inline-block;*/
-    /*float:left*/
+  }
+  @media (max-width: 500px) {
+     .paper-text { 
+        float: left;
+     }
   }
   .paper-short-summary {
     font-size: 0.85em;
