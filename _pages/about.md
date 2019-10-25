@@ -24,15 +24,14 @@ redirect_from:
 </style>
 
 I am a second year PhD student at University of Southern California advised by Prof. [Aram Galstyan](https://www.isi.edu/people/galstyan/about) and Prof. [Greg Ver Steeg](https://www.isi.edu/people/gregv/about).
-My main research interested is representation learning with the goal of enriching the learned representation with useful properties.
+My main research interest is representation learning with the goal of enriching the learned representation with useful properties.
 We often express those properties with information-theoretic quantities and propose methods for optimizing such objectives.
-
 More broadly, I am interested in core research in machine learning, understanding/explaining the generalization phenomenon
 of deep neural networks, and in estimation/approximation of information-theoretic quantities.
 
 ## News 
 - *\[Sept. 3, 2019\]* Our [paper](https://arxiv.org/abs/1706.03353) "Fast structure learning with modular regularization" got accepted to NeurIPS'19 as a spotlight presentation.
-- *\[Aug. 15, 2019\]* TAing CSCI 670: advanced analysis of algorithms taught by Prof. [Shang-Hua Teng](https://viterbi-web.usc.edu/~shanghua/) this fall!
+- *\[Aug. 15, 2019\]* I will be TAing CSCI 670: advanced analysis of algorithms taught by Prof. [Shang-Hua Teng](https://viterbi-web.usc.edu/~shanghua/) this fall.
 
 
 ## Publications
@@ -47,7 +46,12 @@ of deep neural networks, and in estimation/approximation of information-theoreti
   <a href="https://github.com/Harhro94/T-CorEx">code</a>,
   <a href="/files/bibtex/linearcorex.txt">bibTeX</a>]
   <br><br>
-  Short summary here todo.
+  We introduce a method, called linear CorEx, for learning latent factors such that the joint probability distribution
+  becomes close to being a modular latent factor model (shown in the picture).
+  The method has linear complexity w.r.t. the number of observed variables and works 
+  well in high-dimensional undersampled regimes.
+  Furthermore, when the data comes from an approximately modular Gaussian latent factor model,
+  linear CorEx exhibits blessing of dimensionality!
 </div>
 </div>
 
