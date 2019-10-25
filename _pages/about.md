@@ -7,8 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<title>Homepage</title>
+
 <head>
+ <title>Homepage</title>
   <link rel="stylesheet" href="/assets/css/custom.css">
 </head>
 
