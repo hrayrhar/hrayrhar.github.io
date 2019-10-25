@@ -37,7 +37,7 @@ of deep neural networks, and in estimation/approximation of information-theoreti
 
 ## News 
 - *\[Sept. 3, 2019\]* Our [paper](https://arxiv.org/abs/1706.03353) "Fast structure learning with modular regularization" got accepted to NeurIPS'19 as a spotlight presentation.
-- *\[Aug. 15, 2019\]* I will be TAing CSCI 670: advanced analysis of algorithms taught by Prof. [Shang-Hua Teng](https://viterbi-web.usc.edu/~shanghua/) this fall.
+- *\[Aug. 15, 2019\]* I will be the teaching assistant of CSCI 670: advanced analysis of algorithms taught by Prof. [Shang-Hua Teng](https://viterbi-web.usc.edu/~shanghua/) this fall.
 
 
 ## Publications
@@ -103,7 +103,11 @@ of deep neural networks, and in estimation/approximation of information-theoreti
   <a href="/files/bibtex/mixhop.txt">bibTeX</a>]
   <br><br>
   <div class="paper-short-summary">
-  Short summary here todo.
+  This paper proposes a new graph convolutional network (GCN), called MixHop, that in contrast to the vanilla GCN
+  is able to learn a general class of neighborhood mixing relationships.
+  MixHop requires no additional memory or computational complexity.
+  Additionally, the paper proposes sparsity regularization that allows us
+  to visualize how the network prioritizes neighborhood information across different graph datasets.
   </div>
 </div>
 </div>
@@ -122,7 +126,10 @@ of deep neural networks, and in estimation/approximation of information-theoreti
   <a href="/files/bibtex/mimic.txt">bibTeX</a>]
   <br><br>
   <div class="paper-short-summary">
-  Short summary here todo.
+  The progress in machine learning for healthcare research has been difficult to measure because of the absence of publicly available benchmark data sets.
+  To address this problem, we propose four clinical prediction benchmarks using data derived from the publicly available MIMIC-III database.
+  These tasks cover a range of clinical problems including modeling risk of mortality, forecasting length of stay, detecting physiologic decline, and phenotype classification.
+  We propose strong linear and neural baselines for all four tasks and evaluate the effect of deep supervision, multitask training and data-specific architectural modifications on the performance of neural models.
   </div>
 </div>
 </div>
