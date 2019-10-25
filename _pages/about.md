@@ -1,6 +1,5 @@
 ---
 permalink: /
-excerpt: "About me"
 title: About me
 author_profile: true
 redirect_from: 
@@ -19,8 +18,8 @@ More broadly, I am interested in core research in machine learning, understandin
 of deep neural networks, and in estimation/approximation of information-theoretic quantities.
 
 ## News 
-- *\[Sept. 3, 2019\]* Our [paper](https://arxiv.org/abs/1706.03353) "Fast structure learning with modular regularization" got accepted to NeurIPS'19 as a spotlight presentation.
-- *\[Aug. 15, 2019\]* I will be the teaching assistant of CSCI 670: advanced analysis of algorithms taught by Prof. [Shang-Hua Teng](https://viterbi-web.usc.edu/~shanghua/) this fall.
+- **\[Sept. 3, 2019\]** Our [paper](https://arxiv.org/abs/1706.03353) "Fast structure learning with modular regularization" got accepted to NeurIPS'19 as a spotlight presentation.
+- **\[Aug. 15, 2019\]** I will be the teaching assistant of CSCI 670: advanced analysis of algorithms taught by Prof. [Shang-Hua Teng](https://viterbi-web.usc.edu/~shanghua/) this fall.
 
 
 ## Publications
