@@ -18,7 +18,7 @@ redirect_from:
     padding-right: 10px;
   }
   .paper-text {
-    min-width: 20em;
+    min-width: 200px;/*fix later*/
     /*display: inline-block;*/
     /*float:left*/
   }
