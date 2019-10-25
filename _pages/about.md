@@ -68,7 +68,14 @@ of deep neural networks, and in estimation/approximation of information-theoreti
   <a href="https://github.com/Harhro94/T-CorEx">code</a>,
   <a href="/files/bibtex/tcorex.txt">bibTeX</a>]
   <br><br>
-  Short summary here todo.
+  In this work we extend linear CorEx to work with temporal data.
+  The main method -- T-CorEx --  takes multivariate time series, divided into time periods and 
+  models the data of each time period with an instance of linear CorEx, such that the models
+  vary smoothly over time.
+  The method can be used for estimating covariance matrix of observed variables at each time period, clustering of time
+  series, change point detection, and extracting useful information.
+  All these analyses can be done in less than an hour even when the data is truly high-dimensional 
+  (like an fMRI instance with 10^5 variables and 20 time periods).
 </div>
 </div>
 
