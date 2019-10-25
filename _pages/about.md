@@ -14,7 +14,7 @@ redirect_from:
   }
   .paper-image {
     float: left;
-    width: 300px;
+    width: 250px;
     padding-right: 10px;
   }
   .paper-text {
@@ -22,7 +22,7 @@ redirect_from:
     /*float:left*/
   }
   .paper-short-summary {
-    font-size: 0.6875em; // corresponds to $type-size-7
+    font-size: 0.8em;
   }
 </style>
 
@@ -49,14 +49,14 @@ of deep neural networks, and in estimation/approximation of information-theoreti
   <a href="https://github.com/Harhro94/T-CorEx">code</a>,
   <a href="/files/bibtex/linearcorex.txt">bibTeX</a>]
   <br><br>
-  <p class="paper-short-summary">
+  <div class="paper-short-summary">
   We introduce a method, called linear CorEx, for learning latent factors such that the joint probability distribution
   becomes close to being a modular latent factor model (shown in the picture).
   The method has linear complexity w.r.t. the number of observed variables and works 
   well in high-dimensional undersampled regimes.
   Furthermore, when the data comes from an approximately modular Gaussian latent factor model,
   linear CorEx exhibits blessing of dimensionality!
-  </p>
+  </div>
 </div>
 </div>
 
