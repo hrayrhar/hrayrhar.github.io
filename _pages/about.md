@@ -21,6 +21,9 @@ redirect_from:
     /*display: inline-block;*/
     /*float:left*/
   }
+  .paper-short-summary {
+    font-size: small;
+  }
 </style>
 
 I am a second year PhD student at University of Southern California advised by Prof. [Aram Galstyan](https://www.isi.edu/people/galstyan/about) and Prof. [Greg Ver Steeg](https://www.isi.edu/people/gregv/about).
@@ -46,12 +49,14 @@ of deep neural networks, and in estimation/approximation of information-theoreti
   <a href="https://github.com/Harhro94/T-CorEx">code</a>,
   <a href="/files/bibtex/linearcorex.txt">bibTeX</a>]
   <br><br>
+  <p class="paper-short-summary">
   We introduce a method, called linear CorEx, for learning latent factors such that the joint probability distribution
   becomes close to being a modular latent factor model (shown in the picture).
   The method has linear complexity w.r.t. the number of observed variables and works 
   well in high-dimensional undersampled regimes.
   Furthermore, when the data comes from an approximately modular Gaussian latent factor model,
   linear CorEx exhibits blessing of dimensionality!
+  </p>
 </div>
 </div>
 
