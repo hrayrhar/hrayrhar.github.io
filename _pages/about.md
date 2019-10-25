@@ -22,7 +22,7 @@ redirect_from:
     /*float:left*/
   }
   .paper-short-summary {
-    font-size: $type-size-8;
+    font-size: 0.75em; // corresponds to $type-size-6
   }
 </style>
 
@@ -50,7 +50,6 @@ of deep neural networks, and in estimation/approximation of information-theoreti
   <a href="/files/bibtex/linearcorex.txt">bibTeX</a>]
   <br><br>
   <p class="paper-short-summary">
-  Check2
   We introduce a method, called linear CorEx, for learning latent factors such that the joint probability distribution
   becomes close to being a modular latent factor model (shown in the picture).
   The method has linear complexity w.r.t. the number of observed variables and works 
