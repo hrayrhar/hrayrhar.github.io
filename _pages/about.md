@@ -9,17 +9,20 @@ redirect_from:
 ---
 
 <head>
- <title>Homepage</title>
   <link rel="stylesheet" href="/assets/css/custom.css">
 </head>
 
 I am a second year PhD student at University of Southern California advised by 
 Prof. [Aram Galstyan](https://www.isi.edu/people/galstyan/about) and 
 Prof. [Greg Ver Steeg](https://www.isi.edu/people/gregv/about).
-My main research interest is representation learning with the goal of enriching the learned representation with useful properties.
-We often express those properties with information-theoretic quantities and propose methods for optimizing such objectives.
-More broadly, I am interested in core research in machine learning, understanding/explaining the generalization phenomenon
-of deep neural networks, and in estimation/approximation of information-theoretic quantities.
+My main research interest is representation learning with the goal of enriching 
+the learned representation with useful properties (enforcing compression, 
+disentanglement; increasing modularity; avoiding synergy; etc). We often express 
+these properties with information-theoretic quantities and propose methods 
+for optimizing such objectives. More broadly, I am interested in core 
+research in machine learning, studying the generalization phenomenon of 
+deep neural networks, and in estimation/approximation of information-theoretic quantities.
+
 
 ## News 
 - **\[Sept. 3, 2019\]** Our [paper](https://arxiv.org/abs/1706.03353) "Fast structure learning with modular regularization" got accepted to NeurIPS'19 as a spotlight presentation.
