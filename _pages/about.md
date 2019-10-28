@@ -20,7 +20,8 @@ the learned representation with useful properties (enforcing compression,
 disentanglement; increasing modularity; avoiding synergy; etc). We often express 
 these properties with information-theoretic quantities and propose methods 
 for optimizing such objectives. More broadly, I am interested in core 
-research in machine learning, studying the generalization phenomenon of 
+research in machine learning, designing novel representation learning approaches, 
+studying the generalization phenomenon of 
 deep neural networks, and in estimation/approximation of information-theoretic quantities.
 
 
