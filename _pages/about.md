@@ -19,10 +19,10 @@ My main research interest is representation learning with the goal of enriching
 the learned representation with useful properties (enforcing compression, 
 disentanglement; increasing modularity; avoiding synergy; etc). We often express 
 these properties with information-theoretic quantities and propose methods 
-for optimizing such objectives. More broadly, I am interested in core 
-research in machine learning, designing novel representation learning approaches, 
-studying the generalization phenomenon of 
-deep neural networks, and in estimation/approximation of information-theoretic quantities.
+for optimizing such objectives.
+More broadly, I am interested in  designing novel representation learning approaches,
+unsupervised/self-supervised learning, studying the generalization phenomenon of 
+deep neural networks, and in estimation/approximation of information-theoretic quantities or their alternatives.
 
 
 ## News 
