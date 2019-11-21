@@ -40,7 +40,7 @@ deep neural networks, and in estimation/approximation of information-theoretic q
   <br>
   NeurIPS'19 [<a href="https://arxiv.org/abs/1905.13276">arXiv</a>,
   <a href="https://github.com/Harhro94/T-CorEx">code</a>,
-  <a href="/files/bibtex/linearcorex.txt">bibTeX</a>]
+  <a href="/files/bibtex/linearcorex.bib">bibTeX</a>]
   <br><br>
   <div class="paper-short-summary">
   We introduce a method, called linear CorEx, for learning latent factors such that the joint probability distribution
@@ -64,7 +64,7 @@ deep neural networks, and in estimation/approximation of information-theoretic q
   <br>
   arXiv preprint [<a href="https://arxiv.org/abs/1905.13276">arXiv</a>,
   <a href="https://github.com/Harhro94/T-CorEx">code</a>,
-  <a href="/files/bibtex/tcorex.txt">bibTeX</a>]
+  <a href="/files/bibtex/tcorex.bib">bibTeX</a>]
   <br><br>
   <div class="paper-short-summary">
   In this work we extend linear CorEx to work with temporal data.
@@ -90,7 +90,7 @@ deep neural networks, and in estimation/approximation of information-theoretic q
   <br>
   ICML'19 [<a href="https://arxiv.org/abs/1905.00067">arXiv</a>,
   <a href="https://github.com/samihaija/mixhop">code</a>,
-  <a href="/files/bibtex/mixhop.txt">bibTeX</a>]
+  <a href="/files/bibtex/mixhop.bib">bibTeX</a>]
   <br><br>
   <div class="paper-short-summary">
   This paper proposes a new graph convolutional network (GCN), called MixHop, that in contrast to the vanilla GCN
@@ -113,7 +113,7 @@ deep neural networks, and in estimation/approximation of information-theoretic q
   <br>
   Nature, Scientific data 6 (1), 96 [<a href="https://arxiv.org/abs/1703.07771">arXiv</a>,
   <a href="https://github.com/YerevaNN/mimic3-benchmarks">code</a>,
-  <a href="/files/bibtex/mimic.txt">bibTeX</a>]
+  <a href="/files/bibtex/mimic.bib">bibTeX</a>]
   <br><br>
   <div class="paper-short-summary">
   The progress in machine learning for healthcare research has been difficult to measure because of the absence of publicly available benchmark data sets.
@@ -134,7 +134,7 @@ deep neural networks, and in estimation/approximation of information-theoretic q
   <b>Disentangled representations via synergy minimization</b>
   <br>
   Allerton'17 [<a href="https://arxiv.org/abs/1710.03839">arXiv</a>,
-  <a href="/files/bibtex/synergy.txt">bibTeX</a>]
+  <a href="/files/bibtex/synergy.bib">bibTeX</a>]
   <br><br>
   <div class="paper-short-summary">
   If the factors comprising a representation allow us to make accurate predictions about our system, 
