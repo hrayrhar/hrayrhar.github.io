@@ -26,6 +26,7 @@ deep neural networks, and in estimation/approximation of information-theoretic q
 
 
 ## News 
+- **\[Oct. 1, 2019\]** Our [work](https://drive.google.com/file/d/1e1_yUylRKCQ8hAdhEtUBpAPkxJ7jFD3B/view?usp=sharing) titled "Reducing overfitting by minimizing label information in weights" got accepted to NeurIPS'19 information theory and machine learning workshop.
 - **\[Sept. 3, 2019\]** Our [paper](https://arxiv.org/abs/1706.03353) "Fast structure learning with modular regularization" got accepted to NeurIPS'19 as a spotlight presentation.
 - **\[Aug. 15, 2019\]** I will be the teaching assistant of CSCI 670: advanced analysis of algorithms taught by Prof. [Shang-Hua Teng](https://viterbi-web.usc.edu/~shanghua/) this fall.
 
