@@ -25,13 +25,33 @@ unsupervised/self-supervised learning, studying the generalization phenomenon of
 deep neural networks, and in estimation/approximation of information-theoretic quantities or their alternatives.
 
 
-## News 
+## News
+- **\[Jan. 3, 2020\]** I will be TA-ing CSCI 270: "introduction to algorithms and theory of computing" taught by Prof. [Shawn Shamsian](https://viterbi.usc.edu/directory/faculty/Shamsian/Shahriar) this spring.
 - **\[Oct. 1, 2019\]** Our [work](https://drive.google.com/file/d/1e1_yUylRKCQ8hAdhEtUBpAPkxJ7jFD3B/view?usp=sharing) titled "Reducing overfitting by minimizing label information in weights" got accepted to NeurIPS'19 information theory and machine learning workshop.
 - **\[Sept. 3, 2019\]** Our [paper](https://arxiv.org/abs/1706.03353) "Fast structure learning with modular regularization" got accepted to NeurIPS'19 as a spotlight presentation.
-- **\[Aug. 15, 2019\]** I will be the teaching assistant of CSCI 670: advanced analysis of algorithms taught by Prof. [Shang-Hua Teng](https://viterbi-web.usc.edu/~shanghua/) this fall.
+- **\[Aug. 15, 2019\]** I will be the teaching assistant of CSCI 670: "advanced analysis of algorithms" taught by Prof. [Shang-Hua Teng](https://viterbi-web.usc.edu/~shanghua/) this fall.
 
 
 ## Publications
+<div class="paper-image-text-pair">
+<img class="paper-image" src="/images/limit.png" alt="avoiding memorization">
+<div class="paper-text">
+  <i>Hrayr Harutyunyan</i>, Kyle Reing, Greg Ver Steeg, Aram Galstyan
+  <br>
+  <b>Improving generalization by controlling label-noise information in neural network weights</b>
+  <br>
+  arXiv preprint [<a href="https://arxiv.org/abs/2002.07933">arXiv</a>,
+  <a href="https://github.com/hrayrhar/limit-label-memorization">code</a>,
+  <a href="/files/bibtex/limit.bib" target="_self">bibTeX</a>]
+  <br><br>
+  <div class="paper-short-summary">
+  # TODO: write
+  </div>
+</div>
+</div>
+
+<hr style="margin: 1.5em">
+
 <div class="paper-image-text-pair">
 <img class="paper-image" src="/images/modular.png" alt="modular latent factor model">
 <div class="paper-text">
