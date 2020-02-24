@@ -26,7 +26,7 @@ deep neural networks, and in estimation/approximation of information-theoretic q
 
 
 ## News
-- **\[Jan. 3, 2020\]** I will be TA-ing CSCI 270: "introduction to algorithms and theory of computing" taught by Prof. [Shawn Shamsian](https://viterbi.usc.edu/directory/faculty/Shamsian/Shahriar) this spring.
+- **\[Jan. 3, 2020\]** I will be TA-ing CSCI 270: "introduction to algorithms and theory of computing" taught by Prof. [Shahriar Shamsian](https://viterbi.usc.edu/directory/faculty/Shamsian/Shahriar) this spring.
 - **\[Oct. 1, 2019\]** Our [work](https://drive.google.com/file/d/1e1_yUylRKCQ8hAdhEtUBpAPkxJ7jFD3B/view?usp=sharing) titled "Reducing overfitting by minimizing label information in weights" got accepted to NeurIPS'19 information theory and machine learning workshop.
 - **\[Sept. 3, 2019\]** Our [paper](https://arxiv.org/abs/1706.03353) "Fast structure learning with modular regularization" got accepted to NeurIPS'19 as a spotlight presentation.
 - **\[Aug. 15, 2019\]** I will be the teaching assistant of CSCI 670: "advanced analysis of algorithms" taught by Prof. [Shang-Hua Teng](https://viterbi-web.usc.edu/~shanghua/) this fall.
@@ -45,7 +45,11 @@ deep neural networks, and in estimation/approximation of information-theoretic q
   <a href="/files/bibtex/limit.bib" target="_self">bibTeX</a>]
   <br><br>
   <div class="paper-short-summary">
-  # TODO: write
+  In the presence of noisy or incorrect labels, neural networks have the undesirable tendency to memorize information about the noise.
+  We show that one can prevent memorization and improve generalization by controlling the Shannon mutual information between weights and the vector of all training labels given inputs, I(w : y ∣ x).
+  To minimize this information, we propose training algorithms that employ an auxiliary network that predicts gradients in the final layers of a classifier without accessing labels.
+  Our approach yields drastic improvements over standard training algorithms (like cross-entropy
+  loss), and outperform competitive approaches designed for learning with noisy labels.
   </div>
 </div>
 </div>
