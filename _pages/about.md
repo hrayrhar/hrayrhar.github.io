@@ -20,12 +20,15 @@ the learned representation with useful properties (enforcing compression,
 disentanglement; increasing modularity; avoiding synergy; etc). We often express 
 these properties with information-theoretic quantities and propose methods 
 for optimizing such objectives.
-More broadly, I am interested in  designing novel representation learning approaches,
+Additionally, I am interested in studying how information stored in neural network weights relates to memorization, overfitting, and generalization.
+More broadly, I am interested in designing novel representation learning approaches,
 unsupervised/self-supervised learning, studying the generalization phenomenon of 
 deep neural networks, and in estimation/approximation of information-theoretic quantities or their alternatives.
 
 
 ## News
+- **\[June 3, 2020\]** Our [work](https://arxiv.org/abs/2002.07933) "Improving generalization by controlling label-noise information in neural network weights" got accepted to ICML 2020.
+- **\[May 18, 2020\]** Starting a summer internship at AWS Custom Labels team. Going to work with Alessandro Achille, Avinash Ravichandran, and Orchid Majumder!
 - **\[Jan. 3, 2020\]** I will be TA-ing CSCI 270: "introduction to algorithms and theory of computing" taught by Prof. [Shahriar Shamsian](https://viterbi.usc.edu/directory/faculty/Shamsian/Shahriar) this spring.
 - **\[Oct. 1, 2019\]** Our [work](https://drive.google.com/file/d/1e1_yUylRKCQ8hAdhEtUBpAPkxJ7jFD3B/view?usp=sharing) titled "Reducing overfitting by minimizing label information in weights" got accepted to NeurIPS'19 information theory and machine learning workshop.
 - **\[Sept. 3, 2019\]** Our [paper](https://arxiv.org/abs/1706.03353) "Fast structure learning with modular regularization" got accepted to NeurIPS'19 as a spotlight presentation.
