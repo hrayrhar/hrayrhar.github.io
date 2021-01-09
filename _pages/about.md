@@ -12,21 +12,17 @@ redirect_from:
   <link rel="stylesheet" href="/assets/css/custom.css">
 </head>
 
-I am a second year PhD student at University of Southern California advised by 
-Prof. [Aram Galstyan](https://www.isi.edu/people/galstyan/about) and 
+I am a third year PhD student at University of Southern California advised by Prof. [Aram Galstyan](https://www.isi.edu/people/galstyan/about) and 
 Prof. [Greg Ver Steeg](https://www.isi.edu/people/gregv/about).
-My main research interest is representation learning with the goal of enriching 
-the learned representation with useful properties (enforcing compression, 
-disentanglement; increasing modularity; avoiding synergy; etc). We often express 
-these properties with information-theoretic quantities and propose methods 
-for optimizing such objectives.
-Additionally, I am interested in studying how information stored in neural network weights relates to memorization, overfitting, and generalization.
+I do both applied and theoretical research on some aspects of deep learning, often taking an information-theoretic perspective.
+My main research directions are (a) studying information stored in neural network weights or activations and its connections to generalization, memorization, stability and learning dynamics; and (b) representation learning with the goal of enriching the learned representation with useful properties, such as minimality, disentanglement, modularity, reduced synergy, etc.
 More broadly, I am interested in designing novel representation learning approaches,
 unsupervised/self-supervised learning, studying the generalization phenomenon of 
 deep neural networks, and in estimation/approximation of information-theoretic quantities or their alternatives.
 
 
 ## News
+- **\[Oct. 20, 2020\]** Received a free NeurIPS 2020 registration by making it to the list of the top 10% of high-scoring reviewers.
 - **\[June 3, 2020\]** Our [work](https://arxiv.org/abs/2002.07933) "Improving generalization by controlling label-noise information in neural network weights" got accepted to ICML 2020.
 - **\[May 18, 2020\]** Starting a summer internship at AWS Custom Labels team. Going to work with Alessandro Achille, Avinash Ravichandran, and Orchid Majumder!
 - **\[Jan. 3, 2020\]** I will be TA-ing CSCI 270: "introduction to algorithms and theory of computing" taught by Prof. [Shahriar Shamsian](https://viterbi.usc.edu/directory/faculty/Shamsian/Shahriar) this spring.
