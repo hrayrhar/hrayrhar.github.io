@@ -22,7 +22,7 @@ deep neural networks, and in estimation/approximation of information-theoretic q
 
 
 ## News
-- **\[Jan 12, 2021\]** Our [work](https://arxiv.org/abs/2101.06640) "Estimating informativeness of samples with Smooth Unique Information" got accepted to ICLR 2021.
+- **\[Jan. 12, 2021\]** Our [work](https://arxiv.org/abs/2101.06640) "Estimating informativeness of samples with Smooth Unique Information" got accepted to ICLR 2021.
 - **\[Oct. 20, 2020\]** Received a free NeurIPS 2020 registration by making it to the list of the top 10% of high-scoring reviewers.
 - **\[June 3, 2020\]** Our [work](https://arxiv.org/abs/2002.07933) "Improving generalization by controlling label-noise information in neural network weights" got accepted to ICML 2020.
 - **\[May 18, 2020\]** Starting a summer internship at AWS Custom Labels team. Going to work with Alessandro Achille, Avinash Ravichandran, and Orchid Majumder!
