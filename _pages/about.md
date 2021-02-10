@@ -34,13 +34,33 @@ deep neural networks, and in estimation/approximation of information-theoretic q
 
 ## Publications
 <div class="paper-image-text-pair">
+<img class="paper-image" src="/images/sample-info.png" alt="sample information">
+<div class="paper-text">
+ <i>Hrayr Harutyunyan</i>, Alessandro Achille, Giovanni Paolini, Orchid Majumder, Avinash Ravichandran, Rahul Bhotika, Stefano Soatto
+ <br>
+  <b>Estimating informativeness of samples with smooth unique information</b>
+  <br>
+  ICLR 2021 [<a href="https://arxiv.org/abs/2101.06640">arXiv</a>,
+  <a href="https://github.com/awslabs/aws-cv-unique-information">code</a>,
+  <a href="/files/bibtex/sample-info.bib" target="_self">bibTeX</a>]
+  <br><br>
+  <div class="paper-short-summary">
+  We define a notion of information that an individual sample provides to the training of a neural network, and we specialize it to measure both how much a sample informs the final weights and how much it informs the function computed by the weights.
+  Though related, we show that these quantities have a  qualitatively different behavior.
+  We give efficient approximations of these quantities using a linearized network and demonstrate empirically that the approximation is accurate for real-world architectures, such as pre-trained ResNets.
+  We apply these measures to several problems, such as dataset summarization, analysis of under-sampled classes, comparison of informativeness of different data sources, and detection of \rebuttal{adversarial and} corrupted examples.
+  </div>
+</div>
+</div>
+
+<div class="paper-image-text-pair">
 <img class="paper-image" src="/images/limit.png" alt="avoiding memorization">
 <div class="paper-text">
   <i>Hrayr Harutyunyan</i>, Kyle Reing, Greg Ver Steeg, Aram Galstyan
   <br>
   <b>Improving generalization by controlling label-noise information in neural network weights</b>
   <br>
-  arXiv preprint [<a href="https://arxiv.org/abs/2002.07933">arXiv</a>,
+  ICML 2020 [<a href="https://arxiv.org/abs/2002.07933">arXiv</a>,
   <a href="https://github.com/hrayrhar/limit-label-memorization">code</a>,
   <a href="/files/bibtex/limit.bib" target="_self">bibTeX</a>]
   <br><br>
