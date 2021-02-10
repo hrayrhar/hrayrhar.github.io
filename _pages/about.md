@@ -48,10 +48,12 @@ deep neural networks, and in estimation/approximation of information-theoretic q
   We define a notion of information that an individual sample provides to the training of a neural network, and we specialize it to measure both how much a sample informs the final weights and how much it informs the function computed by the weights.
   Though related, we show that these quantities have a  qualitatively different behavior.
   We give efficient approximations of these quantities using a linearized network and demonstrate empirically that the approximation is accurate for real-world architectures, such as pre-trained ResNets.
-  We apply these measures to several problems, such as dataset summarization, analysis of under-sampled classes, comparison of informativeness of different data sources, and detection of \rebuttal{adversarial and} corrupted examples.
+  We apply these measures to several problems, such as dataset summarization, analysis of under-sampled classes, comparison of informativeness of different data sources, and detection of adversarial and corrupted examples.
   </div>
 </div>
 </div>
+
+<hr style="margin: 1.5em">
 
 <div class="paper-image-text-pair">
 <img class="paper-image" src="/images/limit.png" alt="avoiding memorization">
