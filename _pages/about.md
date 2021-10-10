@@ -12,16 +12,15 @@ redirect_from:
   <link rel="stylesheet" href="/assets/css/custom.css">
 </head>
 
-I am a third year PhD student at University of Southern California advised by Prof. [Aram Galstyan](https://www.isi.edu/people/galstyan/about) and 
-Prof. [Greg Ver Steeg](https://www.isi.edu/people/gregv/about).
+I am a PhD candidate at University of Southern California advised by Prof. [Aram Galstyan](https://www.isi.edu/people/galstyan/about) and Prof. [Greg Ver Steeg](https://www.isi.edu/people/gregv/about).
 I do both applied and theoretical research on some aspects of deep learning, often taking an information-theoretic perspective.
 My main research directions are (a) studying information stored in neural network weights or activations and its connections to generalization, memorization, stability and learning dynamics; and (b) representation learning with the goal of enriching the learned representation with useful properties, such as minimality, disentanglement, modularity, reduced synergy, etc.
-More broadly, I am interested in designing novel representation learning approaches,
-unsupervised/self-supervised learning, studying the generalization phenomenon of 
-deep neural networks, and in estimation/approximation of information-theoretic quantities or their alternatives.
+More broadly, I am interested in designing novel representation learning approaches, unsupervised/self-supervised learning, studying the generalization phenomenon of deep neural networks, and in estimation/approximation of information-theoretic quantities or their alternatives.
 
 
 ## News
+- **\[Sept. 28, 2021\]** Our [work](https://arxiv.org/abs/2110.01584v2) "Information-theoretic generalization bounds for black-box learning algorithms" was accepted to NeurIPS 2021.
+- **\[May 17, 2021\]** Started a summer internship at AWS Custom Labels team. Will be working with Alessandro Achille and Avinash Ravichandran.
 - **\[Jan. 12, 2021\]** Our [work](https://arxiv.org/abs/2101.06640) "Estimating informativeness of samples with Smooth Unique Information" got accepted to ICLR 2021.
 - **\[Oct. 20, 2020\]** Received a free NeurIPS 2020 registration by making it to the list of the top 10% of high-scoring reviewers.
 - **\[June 3, 2020\]** Our [work](https://arxiv.org/abs/2002.07933) "Improving generalization by controlling label-noise information in neural network weights" got accepted to ICML 2020.
@@ -33,6 +32,25 @@ deep neural networks, and in estimation/approximation of information-theoretic q
 
 
 ## Publications
+<div class="paper-image-text-pair">
+<img class="paper-image" src="/images/fcmi.png" alt="f-CMI bounds">
+<div class="paper-text">
+ <i>Hrayr Harutyunyan</i>, Maxim Raginsky, Greg Ver Steeg, Aram Galstyan
+ <br>
+  <b>Information-theoretic generalization bounds for black-box learning algorithms</b>
+  <br>
+  NeurIPS 2021 [<a href="https://arxiv.org/abs/2110.01584">arXiv</a>,
+  <a href="https://github.com/hrayrhar/f-CMI">code</a>,
+  <a href="/files/bibtex/fcmi.bib" target="_self">bibTeX</a>]
+  <br><br>
+  <div class="paper-short-summary">
+  We derive information-theoretic generalization bounds for supervised learning algorithms based on the information contained in predictions rather than in the output of the training algorithm. These bounds improve over the existing information-theoretic bounds, are applicable to a wider range of algorithms, and solve two key challenges: (a) they give meaningful results for deterministic algorithms and (b) they are significantly easier to estimate. We show experimentally that the proposed bounds closely follow the generalization gap in practical scenarios for deep learning.
+  </div>
+</div>
+</div>
+
+<hr style="margin: 1.5em">
+
 <div class="paper-image-text-pair">
 <img class="paper-image" src="/images/sample-info.png" alt="sample information">
 <div class="paper-text">
