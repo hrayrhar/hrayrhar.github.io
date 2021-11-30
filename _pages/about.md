@@ -31,7 +31,26 @@ More broadly, I am interested in designing novel representation learning approac
 - **\[Aug. 15, 2019\]** I will be the teaching assistant of CSCI 670: "advanced analysis of algorithms" taught by Prof. [Shang-Hua Teng](https://viterbi-web.usc.edu/~shanghua/) this fall.
 
 
-## Publications
+## Publications and preprints
+<div class="paper-image-text-pair">
+<img class="paper-image" src="/images/dom-gen.png" alt="Domain generalization failure modes">
+<div class="paper-text">
+  Tigran Galstyan, <i>Hrayr Harutyunyan</i>, Hrant Khachatrian, Greg Ver Steeg, Aram Galstyan
+ <br>
+  <b>Failure Modes of Domain Generalization Algorithms</b>
+  <br>
+  arXiv preprint [<a href="https://arxiv.org/abs/2111.13733">arXiv</a>,
+  code <a href="https://github.com/YerevaNN/dom-gen-failure-modes">1</a> <a href="https://github.com/TigranGalstyan/wilds">2</a>,
+  <a href="/files/bibtex/dom-gen.bib" target="_self">bibTeX</a>]
+  <br><br>
+  <div class="paper-short-summary">
+  We propose an evaluation framework for domain generalization algorithms that allows decomposition of the test error into components capturing distinct aspects of generalization. We show that the largest contributor to the generalization error varies across methods, datasets, regularization strengths and even training lengths. We observe two problems associated with the strategy of learning domain-invariant representations. On Colored MNIST, most domain generalization algorithms fail because they reach domain-invariance only on the training domains. On Camelyon-17, domain-invariance degrades the quality of representations on unseen domains. We hypothesize that focusing instead on tuning the classifier on top of a rich representation can be a promising direction.
+  </div>
+</div>
+</div>
+
+<hr style="margin: 1.5em">
+
 <div class="paper-image-text-pair">
 <img class="paper-image" src="/images/fcmi.png" alt="f-CMI bounds">
 <div class="paper-text">
