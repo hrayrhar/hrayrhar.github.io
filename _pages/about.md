@@ -28,14 +28,6 @@ More broadly, I am interested in generalization under domain shifts, unsupervise
 - **\[June 3, 2020\]** Our [work](https://arxiv.org/abs/2002.07933) "Improving generalization by controlling label-noise information in neural network weights" got accepted to ICML 2020.
 - **\[May 18, 2020\]** Starting a summer internship at AWS Custom Labels team. Going to work with Alessandro Achille, Avinash Ravichandran, and Orchid Majumder!
 
-[comment]: <> (- **\[Jan. 3, 2020\]** I will be TA-ing CSCI 270: "introduction to algorithms and theory of computing" taught by Prof. [Shahriar Shamsian]&#40;https://viterbi.usc.edu/directory/faculty/Shamsian/Shahriar&#41; this spring.)
-
-[comment]: <> (- **\[Oct. 1, 2019\]** Our [work]&#40;https://drive.google.com/file/d/1e1_yUylRKCQ8hAdhEtUBpAPkxJ7jFD3B/view?usp=sharing&#41; titled "Reducing overfitting by minimizing label information in weights" got accepted to NeurIPS'19 information theory and machine learning workshop.)
-
-[comment]: <> (- **\[Sept. 3, 2019\]** Our [paper]&#40;https://arxiv.org/abs/1706.03353&#41; "Fast structure learning with modular regularization" got accepted to NeurIPS'19 as a spotlight presentation.)
-
-[comment]: <> (- **\[Aug. 15, 2019\]** I will be the teaching assistant of CSCI 670: "advanced analysis of algorithms" taught by Prof. [Shang-Hua Teng]&#40;https://viterbi-web.usc.edu/~shanghua/&#41; this fall.)
-
 
 ## Publications and preprints
 <div class="paper-image-text-pair">
