@@ -15,20 +15,26 @@ redirect_from:
 I am a PhD candidate at University of Southern California advised by Prof. [Aram Galstyan](https://www.isi.edu/people/galstyan/about) and Prof. [Greg Ver Steeg](https://www.isi.edu/people/gregv/about).
 I do both applied and theoretical research on some aspects of deep learning, often taking an information-theoretic perspective.
 My main research directions are (a) studying information stored in neural network weights or activations and its connections to generalization, memorization, stability and learning dynamics; and (b) representation learning with the goal of enriching the learned representation with useful properties, such as minimality, disentanglement, modularity, reduced synergy, etc.
-More broadly, I am interested in designing novel representation learning approaches, unsupervised/self-supervised learning, studying the generalization phenomenon of deep neural networks, and in estimation/approximation of information-theoretic quantities or their alternatives.
+More broadly, I am interested in generalization under domain shifts, unsupervised/self-supervised learning, studying the generalization phenomenon of deep neural networks, and in estimation/approximation of information-theoretic quantities or their alternatives.
 
 
 ## News
+- **\[May 16, 2022\]** Started a summer internship at Google Research, New York. Will be working with Ankit Singh Rawat and Aditya Menon.
+- **\[March 2, 2022\]** Our [work](https://arxiv.org/abs/2111.13733) "Failure Modes of Domain Generalization Algorithms" was accepted to CVPR 2022.
 - **\[Sept. 28, 2021\]** Our [work](https://arxiv.org/abs/2110.01584v2) "Information-theoretic generalization bounds for black-box learning algorithms" was accepted to NeurIPS 2021.
 - **\[May 17, 2021\]** Started a summer internship at AWS Custom Labels team. Will be working with Alessandro Achille and Avinash Ravichandran.
 - **\[Jan. 12, 2021\]** Our [work](https://arxiv.org/abs/2101.06640) "Estimating informativeness of samples with Smooth Unique Information" got accepted to ICLR 2021.
 - **\[Oct. 20, 2020\]** Received a free NeurIPS 2020 registration by making it to the list of the top 10% of high-scoring reviewers.
 - **\[June 3, 2020\]** Our [work](https://arxiv.org/abs/2002.07933) "Improving generalization by controlling label-noise information in neural network weights" got accepted to ICML 2020.
 - **\[May 18, 2020\]** Starting a summer internship at AWS Custom Labels team. Going to work with Alessandro Achille, Avinash Ravichandran, and Orchid Majumder!
-- **\[Jan. 3, 2020\]** I will be TA-ing CSCI 270: "introduction to algorithms and theory of computing" taught by Prof. [Shahriar Shamsian](https://viterbi.usc.edu/directory/faculty/Shamsian/Shahriar) this spring.
-- **\[Oct. 1, 2019\]** Our [work](https://drive.google.com/file/d/1e1_yUylRKCQ8hAdhEtUBpAPkxJ7jFD3B/view?usp=sharing) titled "Reducing overfitting by minimizing label information in weights" got accepted to NeurIPS'19 information theory and machine learning workshop.
-- **\[Sept. 3, 2019\]** Our [paper](https://arxiv.org/abs/1706.03353) "Fast structure learning with modular regularization" got accepted to NeurIPS'19 as a spotlight presentation.
-- **\[Aug. 15, 2019\]** I will be the teaching assistant of CSCI 670: "advanced analysis of algorithms" taught by Prof. [Shang-Hua Teng](https://viterbi-web.usc.edu/~shanghua/) this fall.
+
+[comment]: <> (- **\[Jan. 3, 2020\]** I will be TA-ing CSCI 270: "introduction to algorithms and theory of computing" taught by Prof. [Shahriar Shamsian]&#40;https://viterbi.usc.edu/directory/faculty/Shamsian/Shahriar&#41; this spring.)
+
+[comment]: <> (- **\[Oct. 1, 2019\]** Our [work]&#40;https://drive.google.com/file/d/1e1_yUylRKCQ8hAdhEtUBpAPkxJ7jFD3B/view?usp=sharing&#41; titled "Reducing overfitting by minimizing label information in weights" got accepted to NeurIPS'19 information theory and machine learning workshop.)
+
+[comment]: <> (- **\[Sept. 3, 2019\]** Our [paper]&#40;https://arxiv.org/abs/1706.03353&#41; "Fast structure learning with modular regularization" got accepted to NeurIPS'19 as a spotlight presentation.)
+
+[comment]: <> (- **\[Aug. 15, 2019\]** I will be the teaching assistant of CSCI 670: "advanced analysis of algorithms" taught by Prof. [Shang-Hua Teng]&#40;https://viterbi-web.usc.edu/~shanghua/&#41; this fall.)
 
 
 ## Publications and preprints
