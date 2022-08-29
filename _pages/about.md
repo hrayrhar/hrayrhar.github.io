@@ -44,7 +44,7 @@ More broadly, I am interested in generalization under domain shifts, unsupervise
  <br>
   <b>Formal limitations of sample-wise information-theoretic generalization bounds</b>
   <br>
-  arXiv preprint [<a href="https://arxiv.org/abs/2205.06915">arXiv</a>,
+  IEEE Information Theory Workshop 2022 [<a href="https://arxiv.org/abs/2205.06915">arXiv</a>,
   <a href="/files/bibtex/sample-wise-it-bounds.bib" target="_self">bibTeX</a>]
   <br><br>
   <div class="paper-short-summary">
@@ -62,7 +62,7 @@ More broadly, I am interested in generalization under domain shifts, unsupervise
  <br>
   <b>Failure Modes of Domain Generalization Algorithms</b>
   <br>
-  arXiv preprint [<a href="https://arxiv.org/abs/2111.13733">arXiv</a>,
+  CVPR 2021 [<a href="https://arxiv.org/abs/2111.13733">arXiv</a>,
   code <a href="https://github.com/YerevaNN/dom-gen-failure-modes">1</a> <a href="https://github.com/TigranGalstyan/wilds">2</a>,
   <a href="/files/bibtex/dom-gen.bib" target="_self">bibTeX</a>]
   <br><br>
