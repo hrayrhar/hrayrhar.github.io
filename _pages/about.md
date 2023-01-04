@@ -12,7 +12,7 @@ redirect_from:
   <link rel="stylesheet" href="/assets/css/custom.css">
 </head>
 
-I am a PhD candidate at University of Southern California advised by Prof. [Aram Galstyan](https://www.isi.edu/people/galstyan/about) and Prof. [Greg Ver Steeg](https://www.isi.edu/people/gregv/about).
+I am a Ph.D. candidate at the University of Southern California, advised by Prof. [Aram Galstyan](https://www.isi.edu/people/galstyan/about) and Prof. [Greg Ver Steeg](https://www.isi.edu/people/gregv/about).
 I do both applied and theoretical research on various aspects of deep learning, often taking an information-theoretic perspective.
 My main research direction is studying information stored in neural network weights or activations, and its connections to generalization, memorization, stability and learning dynamics.
 More broadly, I am interested in learning theory, generalization under domain shifts, unsupervised/self-supervised representation learning, and in the generalization phenomenon of deep neural networks.
