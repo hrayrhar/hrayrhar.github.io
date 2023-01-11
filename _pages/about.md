@@ -22,6 +22,7 @@ More broadly, I am interested in learning theory, generalization under domain sh
 
 
 ## News
+- **\[Jan 11, 2023\]** I am invited to the [Rising Stars in AI Symposium 2023](https://cemse.kaust.edu.sa/ai/aii-symp-2023) at KAUST in Saudi Arabia (Feb. 19-21).
 - **\[Aug 3, 2022\]** Our [work](https://arxiv.org/abs/2205.06915) "Formal limitations of sample-wise information-theoretic generalization bounds" was accepted to the 2022 IEEE Information Theory Workshop conference.
 - **\[May 16, 2022\]** Started a summer internship at Google Research, New York. Will be working with Ankit Singh Rawat and Aditya Menon.
 - **\[March 2, 2022\]** Our [work](https://arxiv.org/abs/2111.13733) "Failure Modes of Domain Generalization Algorithms" was accepted to CVPR 2022.
