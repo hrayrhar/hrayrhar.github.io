@@ -43,6 +43,24 @@ More broadly, I am interested in learning theory, generalization under domain sh
 
 ## Publications and preprints
 <div class="paper-image-text-pair">
+<img class="paper-image" src="/images/supervision-complexity.png" alt="Supervision complexity plot">
+<div class="paper-text">
+  <i>Hrayr Harutyunyan</i>, Ankit Singh Rawat, Aditya Krishna Menon, Seungyeon Kim, Sanjiv Kumar
+ <br>
+  <b>Supervision Complexity and its Role in Knowledge Distillation</b>
+  <br>
+  ICLR 2023, [<a href="https://openreview.net/forum?id=8jU7wy7N7mA">paper</a>,
+  <a href="/files/bibtex/supervision-complexity.bib" target="_self">bibTeX</a>]
+  <br><br>
+  <div class="paper-short-summary">
+  Despite the popularity and efficacy of knowledge distillation, there is limited understanding of why it helps. In order to study the generalization behavior of a distilled student, we propose a new theoretical framework that leverages supervision complexity: a measure of alignment between teacher-provided supervision and the student's neural tangent kernel. The framework highlights a delicate interplay among the teacher's accuracy, the student’s margin with respect to the teacher predictions, and the complexity of the teacher predictions. Specifically, it provides a rigorous justification for the utility of various techniques that are prevalent in the context of distillation, such as early stopping and temperature scaling. Our analysis further suggests the use of online distillation, where a student receives increasingly more complex supervision from teachers in different stages of their training. We demonstrate efficacy of online distillation and validate the theoretical findings on a range of image classification benchmarks and model architectures.
+  </div>
+</div>
+</div>
+
+<hr style="margin: 1.5em">
+
+<div class="paper-image-text-pair">
 <img class="paper-image" src="/images/it-bound-limitations.png" alt="Limitations of sample-wise IT gen. bounds">
 <div class="paper-text">
   <i>Hrayr Harutyunyan</i>, Greg Ver Steeg, Aram Galstyan
@@ -133,7 +151,7 @@ More broadly, I am interested in learning theory, generalization under domain sh
   <br><br>
   <div class="paper-short-summary">
   In the presence of noisy or incorrect labels, neural networks have the undesirable tendency to memorize information about the noise.
-  We show that one can prevent memorization and improve generalization by controlling the Shannon mutual information between weights and the vector of all training labels given inputs, I(w : y ∣ x).
+  We show that one can prevent memorization and improve generalization by controlling the Shannon mutual information between weights and the vector of all training labels given inputs, I(w ; y ∣ x).
   To minimize this information, we propose training algorithms that employ an auxiliary network that predicts gradients in the final layers of a classifier without accessing labels.
   Our approach yields drastic improvements over standard training algorithms (like cross-entropy
   loss), and outperform competitive approaches designed for learning with noisy labels.
