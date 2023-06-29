@@ -16,3 +16,25 @@
 .paper-short-summary {
     font-size: 0.85em;
 }
+
+.dropdown-button {
+    position: relative;
+}
+
+.dropdown-button::after {
+    content: '';
+    display: inline-block;
+    width: 0.7em;
+    height: 0.7em;
+    border-top: 0.35em solid;
+    border-right: 0.35em solid transparent;
+    border-left: 0.35em solid transparent;
+    vertical-align: middle;
+    margin-left: 0.3em;
+    margin-top: 0.15em;
+    transition: transform 0.3s;
+}
+
+.dropdown-button-active::after {
+    transform: rotate(180deg);
+}

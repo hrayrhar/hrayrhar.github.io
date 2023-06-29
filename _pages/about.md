@@ -21,25 +21,29 @@ More broadly, I am interested in learning theory, generalization under domain sh
 [comment]: <> (More broadly in estimation/approximation of information-theoretic quantities or their alternatives.)
 
 
-## News
+## Updates
 - **\[Jan 21, 2023\]** Our [work](https://openreview.net/forum?id=8jU7wy7N7mA) "Supervision Complexity and its Role in Knowledge Distillation" was accepted to ICLR 2023.
 - **\[Jan 11, 2023\]** I am invited to the [Rising Stars in AI Symposium 2023](https://cemse.kaust.edu.sa/ai/aii-symp-2023) at KAUST in Saudi Arabia (Feb. 19-21).
 - **\[Aug 3, 2022\]** Our [work](https://arxiv.org/abs/2205.06915) "Formal limitations of sample-wise information-theoretic generalization bounds" was accepted to the 2022 IEEE Information Theory Workshop conference.
 - **\[May 16, 2022\]** Started a summer internship at Google Research, New York. Will be working with Ankit Singh Rawat and Aditya Menon.
 - **\[March 2, 2022\]** Our [work](https://arxiv.org/abs/2111.13733) "Failure Modes of Domain Generalization Algorithms" was accepted to CVPR 2022.
 - **\[Sept. 28, 2021\]** Our [work](https://arxiv.org/abs/2110.01584v2) "Information-theoretic generalization bounds for black-box learning algorithms" was accepted to NeurIPS 2021.
-- **\[May 17, 2021\]** Started a summer internship at AWS Custom Labels team. Will be working with Alessandro Achille and Avinash Ravichandran.
-- **\[Jan. 12, 2021\]** Our [work](https://arxiv.org/abs/2101.06640) "Estimating informativeness of samples with Smooth Unique Information" got accepted to ICLR 2021.
 
-<!---
-- **\[Oct. 20, 2020\]** Received a free NeurIPS 2020 registration by making it to the list of the top 10% of high-scoring reviewers.
-- **\[June 3, 2020\]** Our [work](https://arxiv.org/abs/2002.07933) "Improving generalization by controlling label-noise information in neural network weights" got accepted to ICML 2020.
-- **\[May 18, 2020\]** Starting a summer internship at AWS Custom Labels team. Going to work with Alessandro Achille, Avinash Ravichandran, and Orchid Majumder!
-- **\[Jan. 3, 2020\]** I will be TA-ing CSCI 270: "introduction to algorithms and theory of computing" taught by Prof. [Shahriar Shamsian]&#40;https://viterbi.usc.edu/directory/faculty/Shamsian/Shahriar&#41; this spring.
-- **\[Oct. 1, 2019\]** Our [work]&#40;https://drive.google.com/file/d/1e1_yUylRKCQ8hAdhEtUBpAPkxJ7jFD3B/view?usp=sharing&#41; titled "Reducing overfitting by minimizing label information in weights" got accepted to NeurIPS'19 information theory and machine learning workshop.
-- **\[Sept. 3, 2019\]** Our [paper]&#40;https://arxiv.org/abs/1706.03353&#41; "Fast structure learning with modular regularization" got accepted to NeurIPS'19 as a spotlight presentation.
-- **\[Aug. 15, 2019\]** I will be the teaching assistant of CSCI 670: "advanced analysis of algorithms" taught by Prof. [Shang-Hua Teng]&#40;https://viterbi-web.usc.edu/~shanghua/&#41; this fall.
--->
+<div id="old-updates-dropdown">
+<a href="#" class="dropdown-button">Old Updates</a>
+<ul id="old-updates-list" style="display: none;">
+    <li><b>[May 17, 2021]</b> Started a summer internship at AWS Custom Labels team. Will be working with Alessandro Achille and Avinash Ravichandran.</li>
+    <li><b>[Jan. 12, 2021]</b> Our <a href="https://arxiv.org/abs/2101.06640">work</a> "Estimating informativeness of samples with Smooth Unique Information" got accepted to ICLR 2021.</li>
+    <li><b>[Oct. 20, 2020]</b> Received a free NeurIPS 2020 registration by making it to the list of the top 10% of high-scoring reviewers.</li>
+    <li><b>[June 3, 2020]</b> Our <a href="https://arxiv.org/abs/2002.07933">work</a> "Improving generalization by controlling label-noise information in neural network weights" got accepted to ICML 2020.</li>
+    <li><b>[May 18, 2020]</b> Starting a summer internship at AWS Custom Labels team. Going to work with Alessandro Achille, Avinash Ravichandran, and Orchid Majumder!</li>
+    <li><b>[Jan. 3, 2020]</b> I will be TA-ing CSCI 270: "introduction to algorithms and theory of computing" taught by Prof. <a href="https://viterbi.usc.edu/directory/faculty/Shamsian/Shahriar">Shahriar Shamsian</a> this spring.</li>
+    <li><b>[Oct. 1, 2019]</b> Our work titled "Reducing overfitting by minimizing label information in weights" got accepted to NeurIPS'19 information theory and machine learning workshop.</li>
+    <li><b>[Sept. 3, 2019]</b> Our <a href="https://arxiv.org/abs/1706.03353">paper</a> "Fast structure learning with modular regularization" got accepted to NeurIPS'19 as a spotlight presentation.</li>
+    <li><b>[Aug. 15, 2019]</b> I will be the teaching assistant of CSCI 670: "advanced analysis of algorithms" taught by Prof. <a href="https://viterbi-web.usc.edu/~shanghua">Shang-Hua Teng</a> this fall.</li>
+</ul>
+</div>
+
 
 ## Publications and preprints
 <div class="paper-image-text-pair">
