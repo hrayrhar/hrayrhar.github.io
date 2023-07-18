@@ -11,17 +11,16 @@ redirect_from:
 <head>
   <link rel="stylesheet" href="/assets/css/custom.css">
 </head>
+I am a research scientist at Google Research. I obtained my Ph.D. in Computer Science from the University of Southern California, where I was fortunate to be advised by [Aram Galstyan](https://www.isi.edu/people/galstyan/about) and [Greg Ver Steeg](https://www.isi.edu/people/gregv/about). Prior to that, I received my M.S. and B.S. degrees in Applied Mathematics and Computer Science from Yerevan State University.
 
-I am a Ph.D. candidate at the University of Southern California, advised by Prof. [Aram Galstyan](https://www.isi.edu/people/galstyan/about) and Prof. [Greg Ver Steeg](https://www.isi.edu/people/gregv/about).
 I do both applied and theoretical research on various aspects of deep learning, often taking an information-theoretic perspective.
 My main research direction is studying information stored in neural network weights or activations, and its connections to generalization, memorization, stability and learning dynamics.
 More broadly, I am interested in learning theory, generalization under domain shifts, unsupervised/self-supervised representation learning, and in the generalization phenomenon of deep neural networks.
 
-[comment]: <> (My secondary research direction is representation learning with the goal of enriching the learned representation with useful properties, such as minimality, disentanglement, modularity, reduced synergy, etc.)
-[comment]: <> (More broadly in estimation/approximation of information-theoretic quantities or their alternatives.)
-
 
 ## Updates
+- **\[July 17, 2023\]** Excited to share that I have joined Google Research NYC as a research scientist.
+- **\[June 16, 2023\]** I have graduated from USC with a PhD in Computer Science!
 - **\[Jan 21, 2023\]** Our [work](https://openreview.net/forum?id=8jU7wy7N7mA) "Supervision Complexity and its Role in Knowledge Distillation" was accepted to ICLR 2023.
 - **\[Jan 11, 2023\]** I am invited to the [Rising Stars in AI Symposium 2023](https://cemse.kaust.edu.sa/ai/aii-symp-2023) at KAUST in Saudi Arabia (Feb. 19-21).
 - **\[Aug 3, 2022\]** Our [work](https://arxiv.org/abs/2205.06915) "Formal limitations of sample-wise information-theoretic generalization bounds" was accepted to the 2022 IEEE Information Theory Workshop conference.
@@ -30,7 +29,7 @@ More broadly, I am interested in learning theory, generalization under domain sh
 - **\[Sept. 28, 2021\]** Our [work](https://arxiv.org/abs/2110.01584v2) "Information-theoretic generalization bounds for black-box learning algorithms" was accepted to NeurIPS 2021.
 
 <div id="old-updates-dropdown">
-<a href="#" class="dropdown-button">Old Updates</a>
+<a href="#" class="dropdown-button">Old updates</a>
 <ul id="old-updates-list" style="display: none;">
     <li><b>[May 17, 2021]</b> Started a summer internship at AWS Custom Labels team. Will be working with Alessandro Achille and Avinash Ravichandran.</li>
     <li><b>[Jan. 12, 2021]</b> Our <a href="https://arxiv.org/abs/2101.06640">work</a> "Estimating informativeness of samples with Smooth Unique Information" got accepted to ICLR 2021.</li>
