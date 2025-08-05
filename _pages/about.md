@@ -11,11 +11,10 @@ redirect_from:
 <head>
   <link rel="stylesheet" href="/assets/css/custom.css">
 </head>
-I am a research scientist at Google Research, where I focus on developing efficient and capable language models, particularly relatively smaller ones (up to 10 billion parameters).
-My research explores designing novel architectures and knowledge distillation techniques to improve both the quality and efficiency of these models.
-I also work on developing techniques to extend the context length of language models by over 30 times.
-At Google, I also contribute to the improvement of [Gemini Nano](https://deepmind.google/technologies/gemini/nano/) models and YouTube search with state-of-the-art AI techniques.
-More broadly, I am interested in novel self-supervised learning objectives, generalization phenomenon of deep neural networks, learning theory, in-context learning, and out-of-distribution generalization.
+I am a research scientist at Google Research, where I focus on training efficient and capable language models, particularly smaller ones with up to 10 billion parameters.
+My research explores designing novel architectures and training techniques to improve both the quality and efficiency of these models.
+More broadly, I am interested in improving in-context learning, long context, length generalization, and reasoning capabilities of state-of-the-art LLMs.
+At Google, I also worked on developing techniques to extend the context length of language models by over 30 times, contributed to [Gemini Nano](https://deepmind.google/technologies/gemini/nano/) models and YouTube search with state-of-the-art AI techniques.
 
 I obtained my Ph.D. in Computer Science from the University of Southern California, where I was fortunate to be advised by [Aram Galstyan](https://www.isi.edu/people/galstyan/about) and [Greg Ver Steeg](https://www.isi.edu/people/gregv/about). My [thesis](https://arxiv.org/abs/2306.15918) was on information stored in neural network weights or activations, and its connections to generalization, memorization, stability and learning dynamics. Prior to USC, I received my M.S. and B.S. degrees in Applied Mathematics and Computer Science from Yerevan State University.
 Outside of work, I am interested in reading, cinema, billiards, skiing, chess, music, and philosophy.
