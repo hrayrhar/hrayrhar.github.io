@@ -24,14 +24,14 @@ Outside of work, I am interested in reading, cinema, billiards, skiing, chess, m
 - **\[June 16, 2023\]** I have graduated from USC with a PhD in Computer Science!
 - **\[Jan 21, 2023\]** Our [work](https://openreview.net/forum?id=8jU7wy7N7mA) "Supervision Complexity and its Role in Knowledge Distillation" was accepted to ICLR 2023.
 - **\[Jan 11, 2023\]** I am invited to the [Rising Stars in AI Symposium 2023](https://cemse.kaust.edu.sa/ai/aii-symp-2023) at KAUST in Saudi Arabia (Feb. 19-21).
-- **\[Aug 3, 2022\]** Our [work](https://arxiv.org/abs/2205.06915) "Formal limitations of sample-wise information-theoretic generalization bounds" was accepted to the 2022 IEEE Information Theory Workshop conference.
-- **\[May 16, 2022\]** Started a summer internship at Google Research, New York. Will be working with Ankit Singh Rawat and Aditya Menon.
-- **\[March 2, 2022\]** Our [work](https://arxiv.org/abs/2111.13733) "Failure Modes of Domain Generalization Algorithms" was accepted to CVPR 2022.
-- **\[Sept. 28, 2021\]** Our [work](https://arxiv.org/abs/2110.01584v2) "Information-theoretic generalization bounds for black-box learning algorithms" was accepted to NeurIPS 2021.
 
 <div id="old-updates-dropdown">
 <a href="#" class="dropdown-button">Old updates</a>
 <ul id="old-updates-list" style="display: none;">
+    <li><b>[Aug 3, 2022]</b> Our <a href="https://arxiv.org/abs/2205.06915">work</a>  "Formal limitations of sample-wise information-theoretic generalization bounds" was accepted to the 2022 IEEE Information Theory Workshop conference.</li>
+    <li><b>[May 16, 2022]</b> Started a summer internship at Google Research, New York. Will be working with Ankit Singh Rawat and Aditya Menon.</li>
+    <li><b>[March 2, 2022]</b> Our <a href="https://arxiv.org/abs/2111.13733">work</a> "Failure Modes of Domain Generalization Algorithms" was accepted to CVPR 2022.</li>
+    <li><b>[Sept. 28, 2021]</b> Our <a href="https://arxiv.org/abs/2110.01584v2">work</a> "Information-theoretic generalization bounds for black-box learning algorithms" was accepted to NeurIPS 2021.</li>
     <li><b>[May 17, 2021]</b> Started a summer internship at AWS Custom Labels team. Will be working with Alessandro Achille and Avinash Ravichandran.</li>
     <li><b>[Jan. 12, 2021]</b> Our <a href="https://arxiv.org/abs/2101.06640">work</a> "Estimating informativeness of samples with Smooth Unique Information" got accepted to ICLR 2021.</li>
     <li><b>[Oct. 20, 2020]</b> Received a free NeurIPS 2020 registration by making it to the list of the top 10% of high-scoring reviewers.</li>
