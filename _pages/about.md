@@ -11,7 +11,7 @@ redirect_from:
 <head>
   <link rel="stylesheet" href="/assets/css/custom.css">
 </head>
-I am a research scientist at Google Research, where I focus on training efficient and capable language models, particularly smaller ones with up to 10 billion parameters.
+I am a Research Scientist at Google DeepMind (GenAI), where I focus on training efficient and capable language models, particularly smaller ones with up to 10 billion parameters.
 My research explores designing novel architectures and training techniques to improve both the quality and efficiency of these models.
 More broadly, I am interested in improving in-context learning, long context, length generalization, and reasoning capabilities of state-of-the-art LLMs.
 At Google, I also worked on developing techniques to extend the context length of language models by over 30 times, contributed to [Gemini Nano](https://deepmind.google/technologies/gemini/nano/) models and YouTube search with state-of-the-art AI techniques.
