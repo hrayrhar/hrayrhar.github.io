@@ -19,15 +19,17 @@ At Google, I also worked on developing techniques to extend the context length o
 I obtained my Ph.D. in Computer Science from the University of Southern California, where I was fortunate to be advised by [Aram Galstyan](https://www.isi.edu/people/galstyan/about) and [Greg Ver Steeg](https://www.isi.edu/people/gregv/about). My [thesis](https://arxiv.org/abs/2306.15918) was on information stored in neural network weights or activations, and its connections to generalization, memorization, stability and learning dynamics. Prior to USC, I received my M.S. and B.S. degrees in Applied Mathematics and Computer Science from Yerevan State University.
 Outside of work, I am interested in reading, cinema, billiards, skiing, chess, music, and philosophy.
 
-## Updates
-- **\[July 17, 2023\]** Excited to share that I have joined Google Research NYC as a research scientist.
-- **\[June 16, 2023\]** I have graduated from USC with a PhD in Computer Science!
-- **\[Jan 21, 2023\]** Our [work](https://openreview.net/forum?id=8jU7wy7N7mA) "Supervision Complexity and its Role in Knowledge Distillation" was accepted to ICLR 2023.
-- **\[Jan 11, 2023\]** I am invited to the [Rising Stars in AI Symposium 2023](https://cemse.kaust.edu.sa/ai/aii-symp-2023) at KAUST in Saudi Arabia (Feb. 19-21).
+## Recent Highlights
+- **\[Summer 2025\]** Hosted interns [M. Emrullah ILDIZ](https://scholar.google.com/citations?user=-Mt1UfUAAAAJ&hl=tr) and [Zhiweu Xu](https://scholar.google.com/citations?user=XzQRU3MAAAAJ&hl=en). Worked with another intern: [Hanseul Cho](https://hanseuljo.github.io/). Expect exciting research on improved transformer architecture and in-context learning!
+- **\[Summer 2024\]** Worked with 2 interns: [Asher Trockman](https://ashertrockman.com/) and [Sangmin Bae](https://www.raymin0223.com/).
+- **\[Feb, 2023\]** Presented my work [\[slides\]](/files/KAUST_Feb_2023_Presentation.pdf) at [Rising Stars in AI Symposium 2023](https://cemse.kaust.edu.sa/ai/aii-symp-2023) at KAUST in Saudi Arabia (Feb. 19-21).
 
 <div id="old-updates-dropdown">
-<a href="#" class="dropdown-button">Old updates</a>
+<a href="#" class="dropdown-button">Old Highlights</a>
 <ul id="old-updates-list" style="display: none;">
+    <li><b>[July 17, 2023]</b> Excited to share that I have joined Google NYC as a Research Scientist!</li>
+    <li><b>[June 16, 2023]</b> I have graduated from USC with a PhD in Computer Science!</li>
+    <li><b>[Jan 21, 2023]</b> Our <a href="https://openreview.net/forum?id=8jU7wy7N7mA">work</a>  "Supervision Complexity and its Role in Knowledge Distillation" was accepted to ICLR 2023.</li>
     <li><b>[Aug 3, 2022]</b> Our <a href="https://arxiv.org/abs/2205.06915">work</a>  "Formal limitations of sample-wise information-theoretic generalization bounds" was accepted to the 2022 IEEE Information Theory Workshop conference.</li>
     <li><b>[May 16, 2022]</b> Started a summer internship at Google Research, New York. Will be working with Ankit Singh Rawat and Aditya Menon.</li>
     <li><b>[March 2, 2022]</b> Our <a href="https://arxiv.org/abs/2111.13733">work</a> "Failure Modes of Domain Generalization Algorithms" was accepted to CVPR 2022.</li>
