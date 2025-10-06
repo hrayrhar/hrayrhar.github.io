@@ -48,6 +48,24 @@ When I'm not training models, I enjoy reading, cinema, playing pool, and explori
 
 ## Publications and preprints
 <div class="paper-image-text-pair">
+<img class="paper-image" src="/images/rrt.png" alt="RRT">
+<div class="paper-text">
+  Sangmin Bae, Adam Fisch, <i>Hrayr Harutyunyan</i>, Ziwei Ji, Seungyeon Kim, Tal Schuster
+ <br>
+  <b>Relaxed Recursive Transformers: Effective Parameter Sharing with Layer-wise LoRA</b>
+  <br>
+  ICLR 2025, [<a href="https://openreview.net/forum?id=WwpYSOkkCt">paper</a>,
+  <a href="/files/bibtex/rrt.bib" target="_self">bibTeX</a>]
+  <br><br>
+  <div class="paper-short-summary">
+  Large language models (LLMs) are expensive to deploy. Parameter sharing offers a possible path towards reducing their size and cost, but its effectiveness in modern LLMs remains fairly limited. In this work, we revisit "layer tying" as form of parameter sharing in Transformers, and introduce novel methods for converting existing LLMs into smaller "Recursive Transformers" that share parameters across layers, with minimal loss of performance. Here, our Recursive Transformers are efficiently initialized from standard pretrained Transformers, but only use a single block of unique layers that is then repeated multiple times in a loop. We further improve performance by introducing Relaxed Recursive Transformers that add flexibility to the layer tying constraint via depth-wise low-rank adaptation (LoRA) modules, yet still preserve the compactness of the overall model. We show that our recursive models (e.g., recursive Gemma 1B) outperform both similar-sized vanilla pretrained models (such as TinyLlama 1.1B and Pythia 1B) and knowledge distillation baselines---and can even recover most of the performance of the original "full-size" model (e.g., Gemma 2B with no shared parameters). Finally, we propose Continuous Depth-wise Batching, a promising new inference paradigm enabled by the Recursive Transformer when paired with early exiting. In a theoretical analysis, we show that this has the potential to lead to significant (2-3x) gains in inference throughput.
+  </div>
+</div>
+</div>
+
+<hr style="margin: 1.5em">
+
+<div class="paper-image-text-pair">
 <img class="paper-image" src="/images/salt.png" alt="SALT">
 <div class="paper-text">
   Ankit Singh Rawat, Veeranjaneyulu Sadhanala, Afshin Rostamizadeh, Ayan Chakrabarti, Wittawat Jitkrittum, Vladimir Feinberg, Seungyeon Kim, <i>Hrayr Harutyunyan</i>, Nikunj Saunshi, Zachary Nado, Rakesh Shivanna, Sashank J. Reddi, Aditya Krishna Menon, Rohan Anil, Sanjiv Kumar
