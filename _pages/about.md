@@ -48,6 +48,24 @@ When I'm not training models, I enjoy reading, cinema, playing pool, and explori
 
 ## Publications and preprints
 <div class="paper-image-text-pair">
+<img class="paper-image" src="/images/mor.png" alt="MoR">
+<div class="paper-text">
+Sangmin Bae, Yujin Kim, Reza Bayat, Sungnyun Kim, Jiyoun Ha, Tal Schuster, Adam Fisch, <i>Hrayr Harutyunyan</i>,, Ziwei Ji, Aaron Courville, Se-Young Yun
+ <br>
+  <b>Mixture-of-Recursions: Learning Dynamic Recursive Depths for Adaptive Token-Level Computation</b>
+  <br>
+  NeurIPS 2025, [<a href="https://arxiv.org/abs/2507.10524?">paper</a>,
+  <a href="/files/bibtex/mor.bib" target="_self">bibTeX</a>]
+  <br><br>
+  <div class="paper-short-summary">
+  Scaling language models unlocks impressive capabilities, but the accompanying computational and memory demands make both training and deployment expensive. Existing efficiency efforts typically target either parameter sharing or adaptive computation, leaving open the question of how to attain both simultaneously. We introduce Mixture-of-Recursions (MoR), a unified framework that combines the two axes of efficiency inside a single Recursive Transformer. MoR reuses a shared stack of layers across recursion steps to achieve parameter efficiency, while lightweight routers enable adaptive token-level thinking by dynamically assigning different recursion depths to individual tokens. This allows MoR to focus quadratic attention computation only among tokens still active at a given recursion depth, further improving memory access efficiency by selectively caching only their key-value pairs. Beyond these core mechanisms, we also propose a KV sharing variant that reuses KV pairs from the first recursion, specifically designed to decrease prefill latency and memory footprint. Across model scales ranging from 135M to 1.7B parameters, MoR forms a new Pareto frontier: at equal training FLOPs and smaller model sizes, it significantly lowers validation perplexity and improves few-shot accuracy, while delivering higher throughput compared with vanilla and existing recursive baselines. These gains demonstrate that MoR is an effective path towards large-model quality without incurring large-model cost.
+  </div>
+</div>
+</div>
+
+<hr style="margin: 1.5em">
+
+<div class="paper-image-text-pair">
 <img class="paper-image" src="/images/cot2.png" alt="cot2">
 <div class="paper-text">
 Halil Alperen Gozeten, M. Emrullah Ildiz, Xuechen Zhang, <i>Hrayr Harutyunyan</i>, Ankit Singh Rawat, Samet Oymak
