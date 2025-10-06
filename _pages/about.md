@@ -48,6 +48,24 @@ When I'm not training models, I enjoy reading, cinema, playing pool, and explori
 
 ## Publications and preprints
 <div class="paper-image-text-pair">
+<img class="paper-image" src="/images/icl.png" alt="In-context Learning in Presence of Spurious Correlations">
+<div class="paper-text">
+  <i>Hrayr Harutyunyan</i>, Rafayel Darbinyan, Samvel Karapetyan, Hrant Khachatrian
+ <br>
+  <b>In-context Learning in Presence of Spurious Correlations</b>
+  <br>
+  Under review at TMLR, [<a href="https://arxiv.org/abs/2410.03140">paper</a>,
+  <a href="/files/bibtex/icl.bib" target="_self">bibTeX</a>]
+  <br><br>
+  <div class="paper-short-summary">
+  Large language models exhibit a remarkable capacity for in-context learning, where they learn to solve tasks given a few examples. Recent work has shown that transformers can be trained to perform simple regression tasks in-context. This work explores the possibility of training an in-context learner for classification tasks involving spurious features. We find that the conventional approach of training in-context learners is susceptible to spurious features. Moreover, when the meta-training dataset includes instances of only one task, the conventional approach leads to task memorization and fails to produce a model that leverages context for predictions. Based on these observations, we propose a novel technique to train such a learner for a given classification task. Remarkably, this in-context learner matches and sometimes outperforms strong methods like ERM and GroupDRO. However, unlike these algorithms, it does not generalize well to other tasks. We show that it is possible to obtain an in-context learner that generalizes to unseen tasks by training on a diverse dataset of synthetic in-context learning instances.
+  </div>
+</div>
+</div>
+
+<hr style="margin: 1.5em">
+
+<div class="paper-image-text-pair">
 <img class="paper-image" src="/images/supervision-complexity.png" alt="Supervision complexity plot">
 <div class="paper-text">
   <i>Hrayr Harutyunyan</i>, Ankit Singh Rawat, Aditya Krishna Menon, Seungyeon Kim, Sanjiv Kumar
