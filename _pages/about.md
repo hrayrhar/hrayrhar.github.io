@@ -48,6 +48,24 @@ When I'm not training models, I enjoy reading, cinema, playing pool, and explori
 
 ## Publications and preprints
 <div class="paper-image-text-pair">
+<img class="paper-image" src="/images/salt.png" alt="SALT">
+<div class="paper-text">
+  Ankit Singh Rawat, Veeranjaneyulu Sadhanala, Afshin Rostamizadeh, Ayan Chakrabarti, Wittawat Jitkrittum, Vladimir Feinberg, Seungyeon Kim, <i>Hrayr Harutyunyan</i>, Nikunj Saunshi, Zachary Nado, Rakesh Shivanna, Sashank J. Reddi, Aditya Krishna Menon, Rohan Anil, Sanjiv Kumar
+ <br>
+  <b>A Little Help Goes a Long Way: Efficient LLM Training by Leveraging Small LMs</b>
+  <br>
+  arXiv preprint, [<a href="https://arxiv.org/abs/2410.18779">paper</a>,
+  <a href="/files/bibtex/salt.bib" target="_self">bibTeX</a>]
+  <br><br>
+  <div class="paper-short-summary">
+  A primary challenge in large language model (LLM) development is their onerous pre-training cost. Typically, such pre-training involves optimizing a self-supervised objective (such as next-token prediction) over a large corpus. This paper explores a promising paradigm to improve LLM pre-training efficiency and quality by suitably leveraging a small language model (SLM). In particular, this paradigm relies on an SLM to both (1) provide soft labels as additional training supervision, and (2) select a small subset of valuable ("informative" and "hard") training examples. Put together, this enables an effective transfer of the SLM's predictive distribution to the LLM, while prioritizing specific regions of the training data distribution. Empirically, this leads to reduced LLM training time compared to standard training, while improving the overall quality. Theoretically, we develop a statistical framework to systematically study the utility of SLMs in enabling efficient training of high-quality LLMs. In particular, our framework characterizes how the SLM's seemingly low-quality supervision can enhance the training of a much more capable LLM. Furthermore, it also highlights the need for an adaptive utilization of such supervision, by striking a balance between the bias and variance introduced by the SLM-provided soft labels. We corroborate our theoretical framework by improving the pre-training of an LLM with 2.8B parameters by utilizing a smaller LM with 1.5B parameters on the Pile dataset.
+  </div>
+</div>
+</div>
+
+<hr style="margin: 1.5em">
+
+<div class="paper-image-text-pair">
 <img class="paper-image" src="/images/mimetic.png" alt="Mimetic initialization helps state space models learn to recall">
 <div class="paper-text">
   Asher Trockman, <i>Hrayr Harutyunyan</i>, J. Zico Kolter, Sanjiv Kumar, Srinadh Bhojanapalli
