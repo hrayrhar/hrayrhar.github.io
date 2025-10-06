@@ -48,6 +48,24 @@ When I'm not training models, I enjoy reading, cinema, playing pool, and explori
 
 ## Publications and preprints
 <div class="paper-image-text-pair">
+<img class="paper-image" src="/images/mimetic.png" alt="Mimetic initialization helps state space models learn to recall">
+<div class="paper-text">
+  Asher Trockman, <i>Hrayr Harutyunyan</i>, J. Zico Kolter, Sanjiv Kumar, Srinadh Bhojanapalli
+ <br>
+  <b>Mimetic Initialization Helps State Space Models Learn to Recall</b>
+  <br>
+  ICLR 2025 Workshop Weight Space Learning, [<a href="https://arxiv.org/abs/2410.11135">paper</a>,
+  <a href="/files/bibtex/mimetic.bib" target="_self">bibTeX</a>]
+  <br><br>
+  <div class="paper-short-summary">
+  Recent work has shown that state space models such as Mamba are significantly worse than Transformers on recall-based tasks due to the fact that their state size is constant with respect to their input sequence length. But in practice, state space models have fairly large state sizes, and we conjecture that they should be able to perform much better at these tasks than previously reported. We investigate whether their poor copying and recall performance could be due in part to training difficulties rather than fundamental capacity constraints. Based on observations of their "attention" maps, we propose a structured initialization technique that allows state space layers to more readily mimic attention. Across a variety of architecture settings, our initialization makes it substantially easier for Mamba to learn to copy and do associative recall from scratch.
+  </div>
+</div>
+</div>
+
+<hr style="margin: 1.5em">
+
+<div class="paper-image-text-pair">
 <img class="paper-image" src="/images/icl.png" alt="In-context Learning in Presence of Spurious Correlations">
 <div class="paper-text">
   <i>Hrayr Harutyunyan</i>, Rafayel Darbinyan, Samvel Karapetyan, Hrant Khachatrian
