@@ -48,6 +48,24 @@ When I'm not training models, I enjoy reading, cinema, playing pool, and explori
 
 ## Publications and preprints
 <div class="paper-image-text-pair">
+<img class="paper-image" src="/images/cot2.png" alt="cot2">
+<div class="paper-text">
+Halil Alperen Gozeten, M. Emrullah Ildiz, Xuechen Zhang, <i>Hrayr Harutyunyan</i>, Ankit Singh Rawat, Samet Oymak
+ <br>
+  <b>Continuous Chain of Thought Enables Parallel Exploration and Reasoning</b>
+  <br>
+  ICML 2025 TokShop Workshop, [<a href="https://arxiv.org/abs/2505.23648?">paper</a>,
+  <a href="/files/bibtex/cot2.bib" target="_self">bibTeX</a>]
+  <br><br>
+  <div class="paper-short-summary">
+  Modern language models generate chain-of-thought traces by autoregressively sampling tokens from a finite vocabulary. While this discrete sampling has achieved remarkable success, conducting chain-of-thought with continuously-valued tokens (CoT2) offers a richer and more expressive alternative. Our work provides new theoretical guarantees and algorithms for CoT2, motivated by logical reasoning tasks that inherently require search capabilities. Theoretically, we establish how CoT2 facilitates the model to track multiple discrete traces in parallel; and quantify the level of achievable parallelism and its benefits for inference efficiency. We also provide a CoT2-based one-layer transformer construction that solves the combinatorial "subset sum problem" given a sufficient embedding dimension. These insights arise from a novel and effective supervision strategy where we match the language model outputs to the empirical token distributions of a set of target traces. Complementing this, we introduce sampling strategies that unlock policy optimization methods for CoT2. Our primary strategy samples and composes K discrete tokens at each decoding step to control the level of parallelism. Experiments confirm that (i) the optimal level of parallelism is governed by the embedding dimension, (ii) our continuous supervision strategy can outperform alternative methods, and (iii) policy optimization with CoT2 indeed improves the performance of the model beyond its initial discrete or continuous supervision.
+  </div>
+</div>
+</div>
+
+<hr style="margin: 1.5em">
+
+<div class="paper-image-text-pair">
 <img class="paper-image" src="/images/rrt.png" alt="RRT">
 <div class="paper-text">
   Sangmin Bae, Adam Fisch, <i>Hrayr Harutyunyan</i>, Ziwei Ji, Seungyeon Kim, Tal Schuster
