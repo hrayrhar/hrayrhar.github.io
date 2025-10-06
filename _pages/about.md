@@ -11,18 +11,17 @@ redirect_from:
 <head>
   <link rel="stylesheet" href="/assets/css/custom.css">
 </head>
-I am a Research Scientist at Google DeepMind (GenAI), where I focus on training efficient and capable language models, particularly smaller ones with up to 10 billion parameters.
-My research explores designing novel architectures and training techniques to improve both the quality and efficiency of these models.
-More broadly, I am interested in improving in-context learning, long context, length generalization, and reasoning capabilities of state-of-the-art LLMs.
-At Google, I also worked on developing techniques to extend the context length of language models by over 30 times, contributed to [Gemini Nano](https://deepmind.google/technologies/gemini/nano/) models and YouTube search with state-of-the-art AI techniques.
+I am a Research Scientist at Google DeepMind (GenAI), advancing the frontiers of large language models through novel architectures and efficient pretraining strategies.
+My work at Google has included extending model context length by over 30x, contributing to the Gemini Nano models, and enhancing YouTube search with state-of-the-art AI. More broadly, I am interested in in-context learning, long context, length generalization, and reasoning capabilities of LLMs.
 
 I obtained my Ph.D. in Computer Science from the University of Southern California, where I was fortunate to be advised by [Aram Galstyan](https://www.isi.edu/people/galstyan/about) and [Greg Ver Steeg](https://www.isi.edu/people/gregv/about). My [thesis](https://arxiv.org/abs/2306.15918) was on information stored in neural network weights or activations, and its connections to generalization, memorization, stability and learning dynamics. Prior to USC, I received my M.S. and B.S. degrees in Applied Mathematics and Computer Science from Yerevan State University.
-Outside of work, I am interested in reading, cinema, billiards, skiing, chess, music, and philosophy.
+When I'm not training models, I enjoy reading, cinema, playing pool, and exploring NYC.
 
 ## Recent Highlights
+- **\[Sept 2025\]** [Mixture-of-recursions: Learning dynamic recursive depths for adaptive token-level computation](https://arxiv.org/abs/2507.10524) accepted at NeurIPS 2025!
 - **\[Summer 2025\]** Hosted interns [M. Emrullah ILDIZ](https://scholar.google.com/citations?user=-Mt1UfUAAAAJ&hl=tr) and [Zhiweu Xu](https://scholar.google.com/citations?user=XzQRU3MAAAAJ&hl=en). Worked with another intern: [Hanseul Cho](https://hanseuljo.github.io/). Expect exciting research on improved transformer architecture and in-context learning!
 - **\[Summer 2024\]** Worked with 2 interns: [Asher Trockman](https://ashertrockman.com/) and [Sangmin Bae](https://www.raymin0223.com/).
-- **\[Feb, 2023\]** Presented my work [\[slides\]](/files/KAUST_Feb_2023_Presentation.pdf) at [Rising Stars in AI Symposium 2023](https://cemse.kaust.edu.sa/ai/aii-symp-2023) at KAUST in Saudi Arabia (Feb. 19-21).
+- **\[Feb, 2023\]** Presented my work [\[slides\]](/files/KAUST_Feb_2023_Presentation.pdf) at [Rising Stars in AI Symposium 2023](https://cemse.kaust.edu.sa/ai/aii-symp-2023) at KAUST in Saudi Arabia.
 
 <div id="old-updates-dropdown">
 <a href="#" class="dropdown-button">Old Highlights</a>
